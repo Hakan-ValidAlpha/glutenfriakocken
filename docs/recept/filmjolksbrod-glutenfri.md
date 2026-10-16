@@ -15,7 +15,7 @@ tags: [bröd, bak, vardag, bikarbonat, sirap]
 
 **1 limpa (form ca 1,5 l) · ca 10 min arbete + 65–75 min i ugn · glutenfri**
 
-Bikarbonatbröd utan jäsning – mixa och in i ugnen. Formen smörjs och bröas med GF havregryn.
+Bikarbonatbröd utan jäsning – mixa och in i ugnen. Formen smörjs och bröas med glutenfritt skorpmjöl.
 
 ## Ingredienser
 
@@ -31,10 +31,11 @@ Bikarbonatbröd utan jäsning – mixa och in i ugnen. Formen smörjs och bröas
 | Bikarbonat | 2 tsk |
 | Fint salt | 1 tsk |
 | Solroskärnor (valfritt) | 1 dl |
+| Glutenfritt skorpmjöl (till formen) | ca 2 msk |
 
 ## Gör så här
 
-1. **Sätt ugnen på 175 °C**, galler i nedre halvan. Smörj formen och strö GF havregryn i botten och på kanterna.
+1. **Sätt ugnen på 175 °C**, galler i nedre halvan. Smörj formen och strö glutenfritt skorpmjöl i botten och på kanterna; skaka ur överskottet.
 2. **Blanda allt torrt** i en bunke: Lailas, havregryn, fiberhusk, kakao, bikarbonat, salt (och frön). Vispa runt så bikarbonaten fördelas jämnt – klumpar ger bittra fläckar.
 3. **Rör ihop filmjölk, sirap och olja** i en annan bunke.
 4. **Vänd ner det våta i det torra** och rör bara tills allt är fuktat. Smeten ska vara lös, som tjock gröt – det är rätt.
@@ -50,6 +51,7 @@ Glutenfri checklista:
 - ✅ Filmjölk – naturligt glutenfri
 - ✅ Lailas gul, Lindroos psyllium – etablerade
 - ⚠️ **Havregryn – MÅSTE vara certifierade GF** (Semper, Finax eller Frebaco)
+- ⚠️ **Skorpmjöl – MÅSTE vara märkt glutenfritt** (vanligt skorpmjöl är vetebaserat)
 - ⚠️ **Mörk sirap** – Dansukkers är glutenfri, men kontrollera etiketten vid annat märke
 - ⚠️ **Kakao** – ren kakao är GF, men läs "kan innehålla spår av"-texten
 - ✅ Bikarbonat, salt, rapsolja, solroskärnor – GF
