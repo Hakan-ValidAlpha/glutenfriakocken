@@ -24,7 +24,7 @@ Bikarbonatbröd utan jäsning – mixa och in i ugnen. Formen smörjs och bröas
 | Filmjölk | 5 dl |
 | Mörk sirap | 1 dl |
 | Rapsolja | 3 msk |
-| Lailas mjölmix (gul, majsstärkelse) | 3 dl |
+| Lailas mjölmix (blå) | 3 dl |
 | Certifierade GF havregryn (Semper/Finax/Frebaco) | 2 dl |
 | Fiberhusk/psyllium (Lindroos) | 1 msk |
 | Mörk kakao | 1 msk |
@@ -49,7 +49,7 @@ Bikarbonatbröd utan jäsning – mixa och in i ugnen. Formen smörjs och bröas
 Glutenfri checklista:
 
 - ✅ Filmjölk – naturligt glutenfri
-- ✅ Lailas gul, Lindroos psyllium – etablerade
+- ✅ Lailas blå, Lindroos psyllium – etablerade
 - ⚠️ **Havregryn – MÅSTE vara certifierade GF** (Semper, Finax eller Frebaco)
 - ⚠️ **Skorpmjöl – MÅSTE vara märkt glutenfritt** (vanligt skorpmjöl är vetebaserat)
 - ⚠️ **Mörk sirap** – Dansukkers är glutenfri, men kontrollera etiketten vid annat märke
