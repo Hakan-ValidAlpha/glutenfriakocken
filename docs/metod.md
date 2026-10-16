@@ -14,9 +14,9 @@ När en lagning visar att något ska ändras: **ändra huvudtexten** och skriv i
 ---
 titel: Ankbröst med körsbärsgastrique
 kategori: huvudrätt       # huvudrätt | bröd | bakverk | efterrätt | glass | tillbehör | sås | frukost | övrigt
-protein: anka             # kyckling | fläsk | nöt | anka | lax | vegetariskt | null
+protein: anka             # kyckling | fläsk | nöt | anka | fisk | vegetariskt | null
 glutenfri: true
-tid_min: 75               # aktiv + passiv tid, vardagsmått
+tid_min: 75               # aktiv + passiv tid samma dag; nattjäsning och kylning räknas inte med – ange dem i kortets huvud
 status: testad            # ny | testad | etablerad | skrotad
 senast_lagad: 2026-09-28  # null om aldrig lagat
 betyg: 4.5                # 1–5, hushållets helhetsomdöme senaste lagningen. null om aldrig lagat

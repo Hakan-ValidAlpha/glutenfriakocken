@@ -72,8 +72,8 @@ def tabellrad(k: dict) -> str:
     betyg = f"{k['betyg']:.1f}" if isinstance(k.get("betyg"), (int, float)) else "–"
     lagad = str(k.get("senast_lagad") or "–")
     return (
-        f"| [{k['titel']}]({k['_fil']}) | {k.get('kategori', '–')} | {k.get('protein', '–')} "
-        f"| {tid} | {status} | {betyg} | {ja_nej(k.get('charlie_ok'))} | {lagad} |"
+        f"| [{k['titel']}]({k['_fil']}) | {k.get('kategori') or '–'} | {k.get('protein') or '–'} "
+        f"| {ja_nej(k.get('glutenfri'))} | {tid} | {status} | {betyg} | {ja_nej(k.get('charlie_ok'))} | {lagad} |"
     )
 
 
@@ -83,8 +83,8 @@ def bygg_recept_index(kort: list[dict]) -> str:
         "",
         "Klicka på en kolumnrubrik för att sortera. Sök med fältet uppe till höger — det söker i hela korttexten, inte bara titeln.",
         "",
-        "| Rätt | Kategori | Protein | Tid | Status | Betyg | Charlie | Senast lagad |",
-        "|---|---|---|---|---|---|---|---|",
+        "| Rätt | Kategori | Protein | GF | Tid | Status | Betyg | Charlie | Senast lagad |",
+        "|---|---|---|---|---|---|---|---|---|",
     ]
     nyckel = lambda k: (KATEGORI_ORDNING.index(k.get("kategori")) if k.get("kategori") in KATEGORI_ORDNING else 99, k["titel"].lower())
     rader += [tabellrad(k) for k in sorted(kort, key=nyckel)]
