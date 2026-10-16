@@ -1,0 +1,29 @@
+/* Receptkort: lite mer luft och läsbarhet i köket (telefon på bänken) */
+.md-typeset {
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+.md-typeset h2 {
+  margin-top: 2em;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  padding-bottom: 0.2em;
+}
+/* Ingredienstabeller: siffror högerställda */
+.md-typeset table:not([class]) td:first-child {
+  text-align: right;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+/* Logg-sektioner: dämpad bakgrund så receptet står ut från historiken */
+.md-typeset details.logg,
+.md-typeset .admonition.logg {
+  background: var(--md-code-bg-color);
+}
+/* Taggar som chips under titeln */
+.md-tags .md-tag {
+  font-size: 0.65rem;
+}
+@media print {
+  .md-header, .md-sidebar, .md-footer, .md-tags { display: none !important; }
+  .md-typeset { font-size: 11pt; }
+}

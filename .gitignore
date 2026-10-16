@@ -1,0 +1,5 @@
+site/
+__pycache__/
+.venv/
+docs/index.md
+docs/recept/index.md
