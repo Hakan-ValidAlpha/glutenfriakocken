@@ -8,7 +8,6 @@ status: testad
 senast_lagad: 2026-09-28
 betyg: 4.5
 charlie_ok: true
-nasta_ab: Såskonsistens — reducera längre vs. montera med mer smör
 tags:
   - helg
   - sås
@@ -57,5 +56,4 @@ Krispigt skinn, rosa kött, en sås som balanserar körsbärens sötma med rödv
     **Resultat:** Utmärkt. Skinnet krispigt, köttet jämnt rosa (uppmätt 55 °C efter vila).
     **Problem:** Såsen något tunn vid servering.
     **Ändrat i huvudtexten:** Vattenmängd i gastriquen korrigerad från 3 dl till 2 dl fond.
-    **Nästa variabel:** Såskonsistens — reducera längre *eller* montera med mer smör. En variabel i taget.
     **Charlie:** Åt upp allt. Vill ha mer sås nästa gång.

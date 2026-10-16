@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Läser frontmatter i docs/recept/*.md och genererar:
-  - docs/index.md           : översikt med statusräknare + "nästa steg"-lista
+  - docs/index.md           : översikt med statusräknare + senast lagat
   - docs/recept/index.md    : sorterbar tabell över alla kort
 
 Körs automatiskt i GitHub Actions före `mkdocs build`,
@@ -18,15 +18,14 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 RECEPT = ROOT / "docs" / "recept"
 
-STATUS_ORDNING = ["ny", "testad", "iterering", "etablerad", "skrotad"]
+STATUS_ORDNING = ["ny", "testad", "etablerad", "skrotad"]
 STATUS_ETIKETT = {
     "ny": "🆕 Ny",
     "testad": "🧪 Testad",
-    "iterering": "🔁 Iterering",
     "etablerad": "✅ Etablerad",
     "skrotad": "🗑️ Skrotad",
 }
-KATEGORI_ORDNING = ["huvudrätt", "bröd", "bakverk", "efterrätt", "glass", "tillbehör", "sås", "övrigt"]
+KATEGORI_ORDNING = ["huvudrätt", "frukost", "bröd", "bakverk", "efterrätt", "glass", "tillbehör", "sås", "övrigt"]
 
 
 def las_frontmatter(path: Path) -> dict | None:
@@ -94,7 +93,7 @@ def bygg_recept_index(kort: list[dict]) -> str:
 
 def bygg_index(kort: list[dict]) -> str:
     antal = {s: sum(1 for k in kort if k.get("status") == s) for s in STATUS_ORDNING}
-    nasta = [k for k in kort if k.get("nasta_ab") and k.get("status") != "skrotad"]
+    olagade = [k for k in kort if k.get("status") == "ny"]
     senaste = sorted([k for k in kort if k.get("senast_lagad")], key=lambda k: str(k["senast_lagad"]), reverse=True)[:8]
 
     rader = [
@@ -111,10 +110,10 @@ def bygg_index(kort: list[dict]) -> str:
         rader.append(f"| {STATUS_ETIKETT[s]} | **{antal[s]}** |")
     rader += ["", f"**{len(kort)} kort totalt.** [Visa alla →](recept/index.md)", ""]
 
-    if nasta:
-        rader += ["## Nästa A/B-test i kö", ""]
-        for k in sorted(nasta, key=lambda k: k["titel"].lower()):
-            rader.append(f"- **[{k['titel']}](recept/{k['_fil']})** — {k['nasta_ab']}")
+    if olagade:
+        rader += ["## Att prova", ""]
+        for k in sorted(olagade, key=lambda k: k["titel"].lower()):
+            rader.append(f"- [{k['titel']}](recept/{k['_fil']})")
         rader.append("")
 
     if senaste:

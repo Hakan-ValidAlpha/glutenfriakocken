@@ -9,6 +9,7 @@ Hushållets receptkort som markdown + en statisk sajt på GitHub Pages.
 ```
 docs/recept/*.md          ett kort per rätt, frontmatter överst
 docs/metod.md             formatregler och arbetsflöde
+docs/utrustning.md        utrustning och skafferistandard
 scripts/bygg_katalog.py   genererar översikt + tabell från frontmatter (körs i CI)
 scripts/migrera.py        lägger frontmatter-stub på gamla kort
 .github/workflows/        bygger och publicerar vid push till main
@@ -29,4 +30,4 @@ mkdocs serve
 ```
 python3 scripts/migrera.py ~/Downloads/gamla-kort/
 ```
-Fyller i titel/kategori/protein/glutenfri automatiskt och lämnar TODO på resten.
+Fyller i titel/kategori/protein/glutenfri automatiskt, stryker gamla A/B-sektioner och lämnar TODO på resten.

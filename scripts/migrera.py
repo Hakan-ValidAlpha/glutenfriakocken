@@ -9,7 +9,8 @@ För varje fil:
   - om den redan har frontmatter: kopieras oförändrad
   - annars: gissar titel (första H1), kategori och glutenfri-flagga från
     filnamn/innehåll, skriver en frontmatter-stub med status: ny och TODO-markeringar
-    för det som inte går att härleda (tid, betyg, senast_lagad).
+    för det som inte går att härleda (tid, betyg, senast_lagad)
+  - stryker sektionen "## Nästa A/B-test" (korten ska vara rena från testplaner)
 
 Stubben är avsiktligt konservativ — fyll i resten för hand eller låt Claude göra det
 kort för kort. Skriptet skriver aldrig över en fil som redan finns i docs/recept/.
@@ -24,6 +25,7 @@ ROOT = Path(__file__).resolve().parent.parent
 RECEPT = ROOT / "docs" / "recept"
 
 KATEGORI_HINT = {
+    "frukost": ["äggmuffins", "frukost"],
     "bröd": ["bröd", "baguette", "focaccia", "naan", "filmjölksbröd"],
     "bakverk": ["paj", "kaka", "chokladkaka", "oats", "pizza"],
     "glass": ["glass", "gelato"],
@@ -53,8 +55,19 @@ def slug(filnamn: str) -> str:
     return re.sub(r"[^a-z0-9åäö\-]", "-", s).strip("-") + ".md" if not s.endswith(".md") else s.replace("-receptkort", "")
 
 
+def stryk_ab(text: str) -> tuple[str, bool]:
+    """Tar bort en '## Nästa A/B-test'-sektion (t.o.m. nästa rubrik på samma eller högre nivå)."""
+    m = re.search(r"^##\s+Nästa A/B-test.*?(?=^#{1,2}\s|\Z)", text, re.M | re.S)
+    if not m:
+        return text, False
+    return text[: m.start()] + text[m.end():], True
+
+
 def migrera(src: Path) -> None:
     text = src.read_text(encoding="utf-8")
+    text, struket = stryk_ab(text)
+    if struket:
+        print(f"  strök sektionen 'Nästa A/B-test' i {src.name}")
     dst = RECEPT / slug(src.name)
     if dst.exists():
         print(f"hoppar över (finns redan): {dst.name}")
@@ -82,7 +95,6 @@ def migrera(src: Path) -> None:
         "senast_lagad: null   # TODO  (ÅÅÅÅ-MM-DD)",
         "betyg: null          # TODO  (1–5)",
         "charlie_ok: null     # TODO",
-        "nasta_ab: null       # TODO  (nästa variabel att testa)",
         "tags: []",
         "---",
         "",
