@@ -8,22 +8,46 @@
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
   padding-bottom: 0.2em;
 }
-/* Ingredienstabeller: siffror högerställda */
-.md-typeset table:not([class]) td:first-child {
-  text-align: right;
+
+/* Tabeller fyller spalten så att ingredienskolumnen får plats att radbryta
+   i stället för att hela tabellen scrollar i sidled på telefon. */
+.md-typeset__table {
+  display: block;
+  width: 100%;
+}
+.md-typeset__table table:not([class]) {
+  display: table;
+  width: 100%;
+}
+
+/* Mängdkolumnen: högerställningen kommer från markdown (|---:|), inte CSS,
+   så att tidsplaner och felsökningstabeller inte påverkas. Här bara
+   tabellsiffror och ingen radbrytning i mängden. */
+.md-typeset table:not([class]) td[style*="text-align: right"],
+.md-typeset table:not([class]) th[style*="text-align: right"] {
   white-space: nowrap;
   font-variant-numeric: tabular-nums;
+  width: 1%;
 }
-/* Logg-sektioner: dämpad bakgrund så receptet står ut från historiken */
-.md-typeset details.logg,
-.md-typeset .admonition.logg {
+
+/* Gruppnamn i ingredienslistan (fet text direkt före en tabell) */
+.md-typeset p > strong:only-child {
+  display: inline-block;
+  margin-top: 0.6em;
+}
+
+/* Logg-poster: dämpad bakgrund så receptet står ut från historiken */
+.md-typeset details.abstract {
   background: var(--md-code-bg-color);
 }
+
 /* Taggar som chips under titeln */
 .md-tags .md-tag {
   font-size: 0.65rem;
 }
+
 @media print {
   .md-header, .md-sidebar, .md-footer, .md-tags { display: none !important; }
   .md-typeset { font-size: 11pt; }
+  .md-typeset details.abstract { display: none; }
 }

@@ -46,6 +46,7 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+  - sane_lists        # ger <ol start="8"> så att stegnumreringen fortsätter efter en delrubrik
   - tables
   - toc:
       permalink: true

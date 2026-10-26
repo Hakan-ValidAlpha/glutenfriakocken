@@ -10,7 +10,9 @@ Hushållets receptkort som markdown + en statisk sajt på GitHub Pages.
 docs/recept/*.md          ett kort per rätt, frontmatter överst
 docs/metod.md             formatregler och arbetsflöde
 docs/utrustning.md        utrustning och skafferistandard
+scripts/kontrollera_kort.py  kontrollerar att korten följer layouten i metod.md (körs i CI)
 scripts/bygg_katalog.py   genererar översikt + tabell från frontmatter (körs i CI)
+.claude/skills/receptkort/ skill + mall som Claude använder när kort skrivs
 scripts/migrera.py        lägger frontmatter-stub på gamla kort
 .github/workflows/        bygger och publicerar vid push till main
 ```
@@ -21,6 +23,7 @@ scripts/migrera.py        lägger frontmatter-stub på gamla kort
 
 ```
 pip install -r requirements.txt
+python3 scripts/kontrollera_kort.py
 python3 scripts/bygg_katalog.py
 mkdocs serve
 ```

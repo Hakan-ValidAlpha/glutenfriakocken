@@ -8,16 +8,16 @@
 
 - Alla receptkort finns i repot `Hakan-ValidAlpha/glutenfriakocken`, katalog `docs/recept/`. Repot är **enda sanningskälla**. Projektets kunskapsfiler innehåller inga kort.
 - Sajt: https://hakan-validalpha.github.io/glutenfriakocken/
-- **Innan du gör något med ett kort:** lägg till repot i sessionen (push-access), klona det, läs `CLAUDE.md`, `docs/metod.md` och `docs/utrustning.md`. Följ dem exakt. Leta efter befintligt kort innan du skapar ett nytt.
+- **Innan du gör något med ett kort:** lägg till repot i sessionen (push-access), klona det, läs `CLAUDE.md`, `docs/metod.md` och `docs/utrustning.md`, och ladda repots skill `receptkort` (`.claude/skills/receptkort/SKILL.md`) som innehåller mallen. Följ dem exakt. Leta efter befintligt kort innan du skapar ett nytt.
 - **Nya och ändrade kort skrivs direkt i repot** och committas och pushas till `main` i samma session. Spara aldrig kort i `/mnt/user-data/outputs/`, som artefakt eller i projektkunskapen.
-- Katalog och översikt genereras av `scripts/bygg_katalog.py` — det finns inget masterindex att hålla uppdaterat. Kör `python3 scripts/bygg_katalog.py` och `mkdocs build --strict` före varje commit; båda ska gå igenom.
+- Katalog och översikt genereras av `scripts/bygg_katalog.py` — det finns inget masterindex att hålla uppdaterat. Kör `python3 scripts/kontrollera_kort.py`, `python3 scripts/bygg_katalog.py` och `mkdocs build --strict` före varje commit; alla tre ska gå igenom. Kontrollskriptet fäller kort som avviker från layouten.
 - Ett commit per kort eller per sammanhängande ändring, meddelande enligt `CLAUDE.md`.
 
 ## Språk och format
 
 - Allt innehåll på svenska, även om Hakan skriver på engelska.
 - Uteslutande svenska enheter: g, kg, ml, dl, tsk, msk, krm. Aldrig cups, oz eller andra amerikanska mått.
-- Kortens struktur, frontmatter och loggformat definieras i `docs/metod.md`.
+- Kortens struktur, frontmatter och loggformat definieras i `docs/metod.md`. Alla kort har samma layout: ingredienser som tabell `| Mängd | Ingrediens |` med **en vara per rad** (tabellen är inköpslistan, ingen separat inköpslista), steg numrerade löpande 1…N, sektionsordning Ingredienser → Tidsplan (valfri) → Gör så här → Charlie-version → Servering → Att tänka på → Logg.
 - **Rena kort.** Receptet beskriver den metod vi kör just nu — inga testplaner, hypoteser eller alternativa metoder i kortet. Förslag på vad som kan prövas nästa gång diskuteras i chatten; om Hakan väljer en förändring ändras huvudtexten och loggen noterar varför.
 
 ## Hushållet
