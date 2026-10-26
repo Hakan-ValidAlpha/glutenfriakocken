@@ -42,7 +42,7 @@ Hushållets grundmos: mjölig potatis, rikligt med smör, varm mjölk. Avsiktlig
 
 ## Charlie-version
 
-Ingen avvikelse.
+- Ingen avvikelse – glutenfritt, utan hetta och utan alkohol.
 
 ## Servering
 
@@ -55,7 +55,6 @@ Ingen avvikelse.
 - **Proportioner per 250 g potatis:** ca 30 g smör, ½ dl mjölk. Dubbel sats går i samma kastrull, men pressa i två omgångar.
 - **Potatispress** finns inte i utrustningslistan. Stöt fungerar men ger grövre mos – pressen är det billiga verktyget som ger störst skillnad.
 - **Rester** tätnar i kylen; värm på svag värme med en skvätt mjölk och en klick smör.
-- **Inköpslista:** mjölig potatis 1 kg, mjölk, smör.
 
 ## Logg
 

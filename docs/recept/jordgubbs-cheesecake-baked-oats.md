@@ -20,30 +20,47 @@ Hela satsen är glutenfri och alkoholfri (vaniljsocker i stället för vaniljext
 *Källa: Instagram-reel (länk under Att tänka på) översatt för hand av Hakan. Enligt reelen gräddas bara havregrynsbotten – cheesecakelagret stryks på efteråt, ogräddat. Ugnstid och fördelningen av jordgubbarna är egna val, markerade nedan.*
 
 ## Ingredienser
+
 *Glutenfritt från start: vetemjölet är utbytt mot Lailas blå mjölmix, havregrynen måste vara märkta glutenfria. Proteinpulvret är struket (se Att tänka på).*
 
 **Botten**
-- 2½ dl mjölk
-- 1¾ dl grekisk eller turkisk yoghurt (10 %)
-- ¾ dl lönnsirap (80 ml) – alternativ: samma mängd flytande honung
-- 2 ägg
-- 40 g smör, smält och något svalnat
-- 1 tsk vaniljsocker (eller ½ tsk vaniljextrakt)
-- 5 dl glutenfria havregryn / ren havre (ca 190 g)
-- 1¼ dl Lailas blå mjölmix (ca 75 g)
-- ½ tsk bakpulver
-- 2 krm salt (originalet anger 1 krm – höjt för hushållets saltprofil)
+
+| Mängd | Ingrediens |
+|---:|---|
+| 2½ dl | mjölk |
+| 1¾ dl | grekisk yoghurt, 10 % (eller turkisk) |
+| ¾ dl (80 ml) | lönnsirap (eller flytande honung) |
+| 2 st | ägg |
+| 40 g | smör, smält och något svalnat |
+| 1 tsk | vaniljsocker (eller ½ tsk vaniljextrakt) |
+| 5 dl (ca 190 g) | havregryn, märkta glutenfria (ren havre) |
+| 1¼ dl (ca 75 g) | Lailas mjölmix, blå |
+| ½ tsk | bakpulver |
+| 2 krm | salt (originalet anger 1 krm – höjt för hushållets saltprofil) |
 
 **Jordgubbar**
-- 500 g jordgubbar, snoppade: 350 g i tärningar till botten + 150 g i skivor till toppen (fördelningen är ett eget val)
 
-**Cheesecakelager (ogräddat)**
-- 250 g färskost naturell (t.ex. Philadelphia), rumstempererad
-- ¾ dl grekisk eller turkisk yoghurt (80 ml)
-- 4 msk lönnsirap (60 ml)
-- 1½ tsk vaniljsocker (eller 1 tsk vaniljextrakt)
+| Mängd | Ingrediens |
+|---:|---|
+| 500 g | jordgubbar, snoppade (350 g i tärningar till botten, 150 g i skivor till toppen) |
+
+**Cheesecakelager** (ogräddat)
+
+| Mängd | Ingrediens |
+|---:|---|
+| 250 g | färskost naturell (t.ex. Philadelphia), rumstempererad |
+| ¾ dl (80 ml) | grekisk yoghurt, 10 % (eller turkisk) |
+| 4 msk (60 ml) | lönnsirap |
+| 1½ tsk | vaniljsocker (eller 1 tsk vaniljextrakt) |
+
+**Till Charlie**
+
+| Mängd | Ingrediens |
+|---:|---|
+| | flingsalt |
 
 ## Gör så här
+
 1. Sätt ugnen på 175 °C över-/undervärme (160 °C varmluft), galler i mitten. Smörj en form på ca 20×20 cm (ca 2 l) eller klä den med bakplåtspapper.
 2. Smält smöret och låt det svalna. Ta fram färskosten så den blir rumsvarm – kall färskost klumpar sig i lagret.
 3. Vispa ihop mjölk, yoghurt, lönnsirap, ägg, smör och vaniljsocker i en stor bunke.
@@ -56,19 +73,21 @@ Hela satsen är glutenfri och alkoholfri (vaniljsocker i stället för vaniljext
 10. Lägg jordgubbsskivorna ovanpå. Servera direkt (ljummen botten, svalt lager) eller kyl 1 timme för fasta, rena bitar. Skär i 9 bitar.
 
 ## Charlie-version
-Ingen separat sats. Kontrollpunkter för celiaki:
-- Havregryn **måste** vara märkta glutenfria/ren havre – vanliga havregryn är kontaminerade med vete.
-- Lailas blå, bakpulver, vaniljsocker, färskost och yoghurt är glutenfria som standard – kolla ändå förpackningen på bakpulvret om märket är nytt.
+
+- Ingen separat sats – alkoholfri (vaniljsocker i stället för vaniljextrakt) och utan hetta.
 - Har Charlie inte ätit ren havre tidigare: ge en liten bit först. Ren havre tolereras av de flesta med celiaki, men en liten andel reagerar på havrens eget protein (avenin).
 - Hennes bit: en nypa flingsalt på cheesecakelagret (sött-salt).
 
 ## Servering
+
 - Bäst kall eller rumsvarm: ljummen botten med svalt lager direkt efter påstrykningen, eller kall ur kylen dag 2–3 som frukost, mellanmål eller efterrätt.
 - Hakan/Cissi: några droppar pressad citron över biten lyfter syran mot sötman.
 - Förvaring: täckt i kylen (4–5 °C) i 3 dygn. Lagret är ogräddat, så värm inte hela bitar – vill ni ha botten varm, skrapa av lagret och värm botten 150 °C i 10 min, eller håll lagret i en burk och stryk på per bit (se Att tänka på).
 - Frys: bara botten utan lager, i bitar, upp till en månad. Lagret blir grynigt efter tining.
 
 ## Att tänka på
+
+- **Glutenkoll:** havregryn **måste** vara märkta glutenfria/ren havre – vanliga havregryn är kontaminerade med vete. Lailas blå, bakpulver, vaniljsocker, färskost och yoghurt är glutenfria som standard – kolla ändå förpackningen på bakpulvret om märket är nytt.
 - **Egna val att stämma av mot reelen:** ugnstiden 30–35 min är satt efter en 20×20-form utan lager – gå på temperaturen första gången och skriv in verklig tid i loggen. Fördelningen 350 g jordgubbar i botten / 150 g på toppen är också egen.
 - **Lagret på hela formen eller per bit:** reelen stryker lagret över hela formen. För en frukost som ska räcka tre dagar är det praktiskt att i stället hålla lagret i en burk i kylen och stryka på per bit – botten kan då värmas, lagret håller sig snyggt och bitarna går att frysa.
 - **Proteinpulver struket:** originalet har 60 ml vaniljproteinpulver. Det finns inte i skafferiet, och det suger upp vätska som de hela havregrynen behöver. Vill ni ha tillbaka proteinet: 0,6 dl vassleprotein med vaniljsmak + ytterligare ½ dl mjölk, och kontrollera glutenfri märkning på pulvret.
@@ -77,8 +96,7 @@ Ingen separat sats. Kontrollpunkter för celiaki:
 - **Sötningsmedel:** lönnsirap är originalet. Honung byts 1:1 och blir mer blommig. Ljus sirap går men smakar plattare.
 - **Yoghurt:** grekisk och turkisk (båda 10 %) ger samma resultat – ta den som finns. Mager yoghurt gör både smeten och lagret lösare.
 - **Färskost:** Philadelphia säljs ofta i 200 g-burk – köp två, eller gör lagret på 200 g färskost med 0,65 dl yoghurt, 3 msk sirap och 1¼ tsk vaniljsocker.
-- **Inköpslista:** jordgubbar 500 g, färskost 250 g, grekisk/turkisk yoghurt (ca 2,5 dl totalt), lönnsirap, glutenfria havregryn (ca 190 g).
-- **Ursprungsreel:** https://www.instagram.com/reel/Ddduyu2y8L6/
+- **Källa:** Instagram-reel https://www.instagram.com/reel/Ddduyu2y8L6/
 
 ## Logg
 

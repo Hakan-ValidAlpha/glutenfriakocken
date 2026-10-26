@@ -20,20 +20,24 @@ Hela baket är säkert för Charlie – se Glutenkoll under Att tänka på.
 ## Ingredienser
 
 **Deg**
-- 300 g Lailas mjölmix, **blå** (vetestärkelse, märkt glutenfri)
-- 250 g vatten, 40 °C
-- 6 g fiberhusk (drygt 1 msk) – *alt. 8 g hela psylliumfröskal (Lindroos); gela då 15 min*
-- 4 g torrjäst (drygt 1 tsk, väg helst på 0,1 g-vågen) – *alt. 16 g färsk jäst och 37 °C vatten*
-- 15 g honung (2 tsk) – **obligatorisk**, mixen innehåller inget socker
-- 7 g salt (drygt 1 tsk)
-- 1 msk olivolja
-- lite mjölmix till bänken
 
-**Pensling**
-- 1 msk mjölk
+| Mängd | Ingrediens |
+|---:|---|
+| 300 g | Lailas mjölmix, **blå** (vetestärkelse, märkt glutenfri) |
+| 250 g | vatten, 40 °C |
+| 6 g (drygt 1 msk) | fiberhusk (alt. 8 g hela psylliumfröskal, Lindroos – gela då 15 min) |
+| 4 g (drygt 1 tsk) | torrjäst, väg helst på 0,1 g-vågen (alt. 16 g färsk jäst och 37 °C vatten) |
+| 15 g (2 tsk) | honung – **obligatorisk**, mixen innehåller inget socker |
+| 7 g (drygt 1 tsk) | salt |
+| 1 msk | olivolja |
+| | mjölmix till bänken |
 
-**Ånga**
-- 1 dl kokhett vatten (eller 6–8 isbitar)
+**Pensling och ånga**
+
+| Mängd | Ingrediens |
+|---:|---|
+| 1 msk | mjölk |
+| 1 dl | kokhett vatten (eller 6–8 isbitar) |
 
 ## Gör så här
 
@@ -69,7 +73,8 @@ Hela baket är säkert för Charlie – se Glutenkoll under Att tänka på.
 
 ## Charlie-version
 
-Ingen avvikelse: degen är glutenfri och innehåller varken hetta eller alkohol. Hennes skivor: smör, några droppar honung och flingsalt.
+- Ingen avvikelse: degen är glutenfri och innehåller varken hetta eller alkohol.
+- Hennes skivor: smör, några droppar honung och flingsalt.
 
 ## Servering
 
@@ -80,27 +85,17 @@ Ingen avvikelse: degen är glutenfri och innehåller varken hetta eller alkohol.
 
 ## Att tänka på
 
-**Glutenkoll**
-- Lailas blå är vetestärkelse med högst 20 ppm gluten och märkt glutenfri. Att vete står som allergen på påsen gäller veteallergi.
-- Fiberhusk ska vara ren psyllium. Kontrollera att torrjästen är märkt glutenfri.
-- Bakstålet: har det använts till vetepizza? Skrapa och torka rent före – eller låt bakplåtspapperet ligga kvar hela gräddningen.
-- Nytt bakplåtspapper, nytvättade handdukar och en pensel som inte använts till vetebak.
-
-**Varför receptet ser ut så här**
-- *Formas före kylen, en enda jäsning.* Glutenfri deg tappar gas varje gång den hanteras och har inget nätverk som bygger upp den igen – samma lärdom som i pizzakortet. Kall deg är dessutom fast och lätt att snitta och flytta.
-- *83 % vatten i stället för focaccians 110 %.* Baguetten ska stå själv. Lailas eget grundrecept ligger på 74 % för blå mix utan extra fiberhusk; resten är vatten till fiberhusken.
-- *1,3 % jäst i stället för focaccians 2 %.* Natten ger tiden. Degen jäser mest medan den kyls ner de första timmarna och långsamt därefter. Lailas egna recept med blå mix har ca 1,8 % räknat som torrjäst, men de jäser 30 + 30 min samma dag.
-- *5 % honung.* Mixen har inget socker och inga enzymer som frigör nytt, så honungen är allt jästen har att äta. Mängden är satt så att ungefär hälften blir kvar till skorpfärgen.
-- *Mjölk i penslingen.* Mixen har 0,5 % protein och 0 g socker och bryner knappt själv (samma orsak som den bleka focaccian); mjölkens laktos och protein ger färg utan brännare, med risk för något mjukare skorpa.
-- *Ånga och stål.* Ångan håller ytan mjuk de första minuterna så att brödet hinner resa sig. Stålet ger bottenvärme direkt.
-- *Förväntan på nattjäsningen.* I vetedeg kommer mycket av nattjäsningens smak från mjölets egna enzymer, som bryter ner stärkelse och protein under natten. Lailas-mixen är nästan ren stärkelse och saknar dem. Räkna med en mindre smakvinst än i vetefocaccian: vinsten här bör främst bli öppnare inkråm och färskt bröd på morgonen med tio minuters arbete.
-
-**Jäst och tid i kyl**
-- Upp till 16 h: 4 g torrjäst. Gäller även deg på morgonen och gräddning till middag (9–10 h).
-- 18–24 h, till exempel deg på kvällen och gräddning efter jobbet nästa dag: sänk till 3 g.
-- 4 g jäst och 250 g vatten är uppskattningar, inte beprövade värden – ingen kalljäsning med Lailas är gjord i det här köket ännu. Bredden kväll och morgon är facit.
-
-**Felsökning efter första baket**
+- **Glutenkoll:** Lailas blå är vetestärkelse med högst 20 ppm gluten och märkt glutenfri. Att vete står som allergen på påsen gäller veteallergi. Fiberhusk ska vara ren psyllium; kontrollera att torrjästen är märkt glutenfri. Bakstålet: har det använts till vetepizza? Skrapa och torka rent före – eller låt bakplåtspapperet ligga kvar hela gräddningen. Nytt bakplåtspapper, nytvättade handdukar och en pensel som inte använts till vetebak.
+- **Varför receptet ser ut så här:**
+    - *Formas före kylen, en enda jäsning.* Glutenfri deg tappar gas varje gång den hanteras och har inget nätverk som bygger upp den igen – samma lärdom som i pizzakortet. Kall deg är dessutom fast och lätt att snitta och flytta.
+    - *83 % vatten i stället för focaccians 110 %.* Baguetten ska stå själv. Lailas eget grundrecept ligger på 74 % för blå mix utan extra fiberhusk; resten är vatten till fiberhusken.
+    - *1,3 % jäst i stället för focaccians 2 %.* Natten ger tiden. Degen jäser mest medan den kyls ner de första timmarna och långsamt därefter. Lailas egna recept med blå mix har ca 1,8 % räknat som torrjäst, men de jäser 30 + 30 min samma dag.
+    - *5 % honung.* Mixen har inget socker och inga enzymer som frigör nytt, så honungen är allt jästen har att äta. Mängden är satt så att ungefär hälften blir kvar till skorpfärgen.
+    - *Mjölk i penslingen.* Mixen har 0,5 % protein och 0 g socker och bryner knappt själv (samma orsak som den bleka focaccian); mjölkens laktos och protein ger färg utan brännare, med risk för något mjukare skorpa.
+    - *Ånga och stål.* Ångan håller ytan mjuk de första minuterna så att brödet hinner resa sig. Stålet ger bottenvärme direkt.
+    - *Förväntan på nattjäsningen.* I vetedeg kommer mycket av nattjäsningens smak från mjölets egna enzymer, som bryter ner stärkelse och protein under natten. Lailas-mixen är nästan ren stärkelse och saknar dem. Räkna med en mindre smakvinst än i vetefocaccian: vinsten här bör främst bli öppnare inkråm och färskt bröd på morgonen med tio minuters arbete.
+- **Jäst och tid i kyl:** upp till 16 h: 4 g torrjäst (gäller även deg på morgonen och gräddning till middag, 9–10 h). 18–24 h, till exempel deg på kvällen och gräddning efter jobbet nästa dag: sänk till 3 g. 4 g jäst och 250 g vatten är uppskattningar, inte beprövade värden – ingen kalljäsning med Lailas är gjord i det här köket ännu. Bredden kväll och morgon är facit.
+- **Felsökning efter första baket:**
 
 | Utfall | Justera |
 |---|---|
@@ -110,14 +105,10 @@ Ingen avvikelse: degen är glutenfri och innehåller varken hetta eller alkohol.
 | Överjästa eller jästig smak | Torrjäst 4 → 3 g |
 | Blek skorpa även med mjölkpensling | Byt 100 g av vattnet mot mjölk i degen |
 
-**Övrigt**
-- Gul mix binder mer vatten och är ett eget recept: riktvärden 285 g vatten och 3 g torrjäst till 300 g mix. Räkna det som en ny baslinje, inte som en jämförelse med blå.
-- Baguetteplåt (perforerad) finns inte i utrustningslistan. Den är standardlösningen om glutenfria baguetter flyter ut, men köp ingen förrän första baket visat att det behövs.
-- Tre baguetter (× 1,5): 450 g mix, 375 g vatten, 9 g fiberhusk, 6 g torrjäst, 22 g honung, 10,5 g salt, 1½ msk olivolja. Kontrollera att tre får plats på stålet med 6 cm emellan.
-
-**Länkar**
-- [Lailas baguetter](https://lailasglutenfria.se/recept/lailas-baguetter/) – tillverkarens eget recept med blå mix, bakat samma dag.
-- [The Loopy Whisk – glutenfria baguetter](https://theloopywhisk.com/2023/05/04/gluten-free-baguettes/) – målbild samt stegbilder på formning och snittning. Annan mjölblandning, samma teknik med stål och ånga.
+- **Gul mix** binder mer vatten och är ett eget recept: riktvärden 285 g vatten och 3 g torrjäst till 300 g mix. Räkna det som en ny baslinje, inte som en jämförelse med blå.
+- **Utrustning:** baguetteplåt (perforerad) finns inte i utrustningslistan. Den är standardlösningen om glutenfria baguetter flyter ut, men köp ingen förrän första baket visat att det behövs.
+- **Skalning:** tre baguetter (× 1,5): 450 g mix, 375 g vatten, 9 g fiberhusk, 6 g torrjäst, 22 g honung, 10,5 g salt, 1½ msk olivolja. Kontrollera att tre får plats på stålet med 6 cm emellan.
+- **Källa:** [Lailas baguetter](https://lailasglutenfria.se/recept/lailas-baguetter/) – tillverkarens eget recept med blå mix, bakat samma dag. [The Loopy Whisk – glutenfria baguetter](https://theloopywhisk.com/2023/05/04/gluten-free-baguettes/) – målbild samt stegbilder på formning och snittning. Annan mjölblandning, samma teknik med stål och ånga.
 
 ## Logg
 

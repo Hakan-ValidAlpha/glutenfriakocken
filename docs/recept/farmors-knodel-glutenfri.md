@@ -28,7 +28,7 @@ Böhmisk brödknödel efter farmors handskrivna kort, omgjord glutenfri. Vetemj�
 | 1 st | ägg (M) |
 | 2 dl | vatten |
 
-Till kokningen: bakplåtspapper, aluminiumfolie och en bit sytråd.
+*Till kokningen: bakplåtspapper, aluminiumfolie och en bit sytråd.*
 
 ## Gör så här
 
@@ -42,7 +42,7 @@ Till kokningen: bakplåtspapper, aluminiumfolie och en bit sytråd.
 
 ## Charlie-version
 
-Ingen avvikelse – hela satsen är glutenfri. Kontrollera att bakpulvret och formbrödet är märkta glutenfria, som vanligt.
+- Ingen avvikelse – hela satsen är glutenfri, utan hetta och utan alkohol.
 
 ## Servering
 
@@ -51,13 +51,13 @@ Ingen avvikelse – hela satsen är glutenfri. Kontrollera att bakpulvret och fo
 
 ## Att tänka på
 
+- **Glutenkoll:** kontrollera att bakpulvret och formbrödet är märkta glutenfria.
 - **Vätskan är den känsliga punkten.** 2 dl på 300 g är farmors proportion rakt av. För lös deg ger tät, kladdig knödel; för fast ger torr och smulig. Riktmärket är känslan efter vilan i steg 3: tjock, lätt kladdig, formbar.
 - **Inget extra bindemedel.** Lailas blå innehåller redan psyllium, potatisfiber och guarkärnmjöl. Mer psyllium eller xantan ger gummiaktig knödel.
 - **Varför inpackad.** Farmor kokade limporna fritt i rikligt saltat vatten. En glutenfri deg släpper i kokande vatten – stärkelsen lakar ur och ytan blir slemmig – men inpackad blir den jämnt genomkokt och behåller formen. Farmors tips att linda in dem i gladpack är samma idé; papper och folie tål kokning säkert. Saltet i kokvattnet når inte degen, därför sitter sältan i degen i stället.
 - **Farmors original (vete):** 10 dl vetemjöl, 2 tsk salt, 6 tsk bakpulver, 2–3 skivor formbröd, 2 ägg och 4 dl vatten (siffran är otydligt skriven på kortet). Två limpor, kokade fritt i saltat vatten: när de flutit upp 14 min per sida, sedan provskivade med sytråd och tillbaka i grytan om kärnan var degig. Dubbel sats här ger samma mängd.
 - **Grytans mått.** Le Creuset 24 cm rymmer en limpa på 18–20 cm. Dubbel sats blir två limpor, kokade efter varandra eller i en större kastrull.
 - **Rester är poängen.** Dagsgamla skivor stekta i smör tills gyllene är klassikern – till stekt ägg som frukost, eller med smör, lite socker och flingsalt som mellis. Kokt knödel håller 3 dagar i kylen, inpackad, och kan frysas skivad. Värm skivor i ånga eller i micro under lock, aldrig torrt.
-- **Inköpslista:** glutenfritt formbröd, ägg. Lailas blå, bakpulver och salt finns hemma. Kontrollera att bakplåtspapper, folie och sytråd finns.
 
 ## Logg
 

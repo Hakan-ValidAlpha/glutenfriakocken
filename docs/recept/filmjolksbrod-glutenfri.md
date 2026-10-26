@@ -11,27 +11,28 @@ charlie_ok: null
 tags: [bröd, bak, vardag, bikarbonat, sirap]
 ---
 
-# Mörkt filmjölksbröd, glutenfri (saftig limpa)
+# Mörkt filmjölksbröd, glutenfri
 
 **1 limpa (form ca 1,5 l) · ca 10 min arbete + 65–75 min i ugn · glutenfri**
 
-Bikarbonatbröd utan jäsning – mixa och in i ugnen. Formen smörjs och bröas med glutenfritt skorpmjöl.
+Saftig, mörk limpa på bikarbonat – ingen jäsning, blanda och in i ugnen. Som bäst dagen efter, med salt smör; sirap och salta pålägg träffar hushållets sött-salta profil.
 
 ## Ingredienser
 
-| Ingrediens | Mängd |
-|---|---|
-| Filmjölk | 5 dl |
-| Mörk sirap | 1 dl |
-| Rapsolja | 3 msk |
-| Lailas mjölmix (blå) | 3 dl |
-| Certifierade GF havregryn (Semper/Finax/Frebaco) | 2 dl |
-| Fiberhusk/psyllium (Lindroos) | 1 msk |
-| Mörk kakao | 1 msk |
-| Bikarbonat | 2 tsk |
-| Fint salt | 1 tsk |
-| Solroskärnor (valfritt) | 1 dl |
-| Glutenfritt skorpmjöl (till formen) | ca 2 msk |
+| Mängd | Ingrediens |
+|---:|---|
+| 5 dl | filmjölk |
+| 1 dl | mörk sirap |
+| 3 msk | rapsolja |
+| 3 dl | Lailas mjölmix, blå |
+| 2 dl | havregryn, certifierade glutenfria (Semper, Finax eller Frebaco) |
+| 1 msk | fiberhusk (Lindroos) |
+| 1 msk | kakao, mörk |
+| 2 tsk | bikarbonat |
+| 1 tsk | fint salt |
+| 1 dl | solroskärnor (valfritt) |
+| ca 2 msk | skorpmjöl, glutenfritt, till formen |
+| | smör till formen |
 
 ## Gör så här
 
@@ -46,38 +47,20 @@ Bikarbonatbröd utan jäsning – mixa och in i ugnen. Formen smörjs och bröas
 
 ## Charlie-version
 
-Glutenfri checklista:
+- Ingen avvikelse – hela limpan är glutenfri, utan hetta och utan alkohol.
+- Hennes skivor: salt smör eller glutenfritt messmör – sött-salt.
 
-- ✅ Filmjölk – naturligt glutenfri
-- ✅ Lailas blå, Lindroos psyllium – etablerade
-- ⚠️ **Havregryn – MÅSTE vara certifierade GF** (Semper, Finax eller Frebaco)
-- ⚠️ **Skorpmjöl – MÅSTE vara märkt glutenfritt** (vanligt skorpmjöl är vetebaserat)
-- ⚠️ **Mörk sirap** – Dansukkers är glutenfri, men kontrollera etiketten vid annat märke
-- ⚠️ **Kakao** – ren kakao är GF, men läs "kan innehålla spår av"-texten
-- ✅ Bikarbonat, salt, rapsolja, solroskärnor – GF
-- ⚠️ **Korskontaminering:** ren form, rena redskap, egen smörkniv vid servering
+## Servering
 
-Söt + salt-profilen träffar rätt här (sirap + salta smörgåspålägg). Servera med salt smör eller GF messmör.
+- Skivas dagen efter, inlindat i handduk över natten.
+- Salt smör eller glutenfritt messmör; salta pålägg mot sirapssötman.
 
 ## Att tänka på
 
-**Varför det funkar**
-
-- **Bikarbonat + filmjölk** = syran i filmjölken aktiverar bikarbonaten och ger lyftet. Därför direkt in i ugnen, och därför ingen jäsning behövs.
-- **Mörk sirap** gör dubbelt jobb: färg via karamellisering och saftighet – sirap är hygroskopisk och binder fukt i brödet i flera dagar.
-- **Kakao (1 msk)** ger vörtbrödsmörk färg utan att smaka choklad; den lilla bitterheten balanserar sirapens sötma.
-- **Psyllium** låser vätskan i inkråmet – samma princip som i focaccian, men här handlar det om saftighet snarare än struktur.
-- **96–98 °C innertemp** är den verkliga saftighetsspaken. Överbakat filmjölksbröd blir torrt oavsett recept; termometern tar bort gissandet.
-- **Vila inlindat över natten** = fukten vandrar från mitten utåt. Nybakat är det klibbigt i mitten, dagen efter är det saftigt rakt igenom.
-
-**Vanliga fel**
-
-- **Rör för länge i steg 4** → tätt, kompakt bröd. Bikarbonatbröd ska hanteras snabbt och slarvigt.
-- **Smeten står och väntar** → lyftet försvinner. Vilan i steg 5 är okej (reaktionen är långsam i kall smet), men efter att den hällts i formen: in direkt.
-- **Skär i varmt bröd** → smular och verkar kladdigt. GF-bröd behöver svalna helt för att sätta sig.
-- **Litar på tiden i stället för termometern** → torrt eller degigt. 96–98 °C gäller.
-
-**Skalning:** Receptet fyller en 1,5 l form. Dubbel sats = två formar, baka samtidigt (lägg till ca 5 min, kontrollera innertemp per limpa). Halvera inte – liten limpa torkar lättare.
+- **Glutenkoll:** havregryn **måste** vara certifierade glutenfria (Semper, Finax, Frebaco). Skorpmjöl **måste** vara märkt glutenfritt – vanligt skorpmjöl är vetebaserat. Mörk sirap: Dansukkers är glutenfri, kontrollera etiketten vid annat märke. Kakao: ren kakao är glutenfri, läs "kan innehålla spår av". Filmjölk, Lailas blå, Lindroos psyllium, bikarbonat, salt, rapsolja och solroskärnor är fria. Korskontaminering: ren form, rena redskap, egen smörkniv vid servering.
+- **Varför det funkar:** bikarbonat + filmjölk – syran i filmjölken aktiverar bikarbonaten och ger lyftet; därför direkt in i ugnen och ingen jäsning. Mörk sirap gör dubbelt jobb: färg via karamellisering och saftighet – sirap binder fukt i brödet i flera dagar. Kakao (1 msk) ger vörtbrödsmörk färg utan att smaka choklad; den lilla bitterheten balanserar sötman. Psyllium låser vätskan i inkråmet. 96–98 °C innertemp är den verkliga saftighetsspaken – termometern tar bort gissandet. Vila inlindat över natten: fukten vandrar från mitten utåt.
+- **Vanliga fel:** rör för länge i steg 4 → tätt, kompakt bröd; bikarbonatbröd ska hanteras snabbt. Smeten står och väntar efter att den hällts i formen → lyftet försvinner. Skär i varmt bröd → smular och verkar kladdigt. Litar på tiden i stället för termometern → torrt eller degigt.
+- **Skalning:** receptet fyller en 1,5 l form. Dubbel sats = två formar, baka samtidigt (lägg till ca 5 min, kontrollera innertemp per limpa). Halvera inte – liten limpa torkar lättare.
 
 ## Logg
 

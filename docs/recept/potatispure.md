@@ -43,7 +43,7 @@ Slät, blank och smörig puré på franskt vis: potatisen kokas hel med skalet p
 
 ## Charlie-version
 
-Ingen avvikelse.
+- Ingen avvikelse – glutenfritt, utan hetta och utan alkohol.
 
 ## Servering
 
@@ -60,7 +60,6 @@ Ingen avvikelse.
 - **Rikedom:** 200 g smör per kilo är ett snäpp under Robuchons 250 g – medvetet, eftersom bourguignon-såsen redan monteras med smör.
 - **Proportioner per 250 g potatis:** 50 g smör, ½ dl mjölk. Dubbel sats går i samma kastrull, men passera i omgångar.
 - **Rester** tätnar i kylen. Värm på svag värme med en skvätt mjölk och rör tills purén är blank igen.
-- **Inköpslista:** mandelpotatis (eller King Edward) 1 kg, smör 200 g, mjölk 3 %.
 
 ## Logg
 

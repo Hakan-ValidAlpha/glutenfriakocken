@@ -17,31 +17,29 @@ tags: [bröd, bak, jäst, psyllium, helg]
 
 Hela hushållet äter samma bröd – inga parallella bak. Standardsatsen är en halv sats med torrjäst och Lailas mjölmix; dubbel sats finns under Skalning.
 
-## Glutensäkerhet – kontrollera FÖRE bakning
-
-- **Mjölmix:** Vi kör **Lailas mjölmix**. Gul förpackning = majsstärkelse, naturligt glutenfri. Blå = vetestärkelse (max 20 ppm gluten) – märkt glutenfri och godkänd vid celiaki, men anteckna i loggen vilken ni använder. **OBS:** Lailas innehåller inget socker – honungen i receptet är obligatorisk, annars jäser inget.
-- **Fiberhusk/psyllium:** Ska vara ren psyllium – läs etiketten.
-- **Torrjäst:** Kontrollera att förpackningen är märkt glutenfri (Kronjäst torrjäst är det).
-- **Korskontaminering:** Om vetemjöl finns i köket: torka av alla ytor, ren/diskad form, nytt bakplåtspapper, ren pensel och degskrapa. Vetemjölsdamm hänger kvar i luften – baka inte glutenfritt samma dag som du hanterat vetemjöl.
-
 ## Ingredienser
 
 **Deg**
-- 250 g Lailas mjölmix
-- 5 g fiberhusk (ca 1 msk) – *alternativ: 7 g hela psylliumfröskal (Lindroos premium), gela då 15 min istället för 10*
-- 275 g vatten, 40° (fingervarmt+)
-- 5 g torrjäst (ca 1½ tsk) – *alternativ: 20 g färsk jäst, se steg 1*
-- 1 tsk honung eller socker (**obligatoriskt** – Lailas har inget socker)
-- 1 tsk salt
-- 1 msk olivolja (i degen)
-- 1 msk olivolja (till formen)
+
+| Mängd | Ingrediens |
+|---:|---|
+| 250 g | Lailas mjölmix, blå |
+| 5 g (ca 1 msk) | fiberhusk (alt. 7 g hela psylliumfröskal, Lindroos premium – gela då 15 min i stället för 10) |
+| 275 g | vatten, 40 °C (fingervarmt+) |
+| 5 g (ca 1½ tsk) | torrjäst (alt. 20 g färsk jäst, se steg 1) |
+| 1 tsk | honung (eller socker) – **obligatoriskt**, Lailas har inget socker |
+| 1 tsk | salt |
+| 2 msk | olivolja (1 msk i degen, 1 msk till formen) |
 
 **På toppen**
-- 1 msk olivolja
-- ½ msk vatten
-- ½ tsk honung (för färg – Lailas bryner knappt av sig själv)
-- färsk rosmarin
-- flingsalt
+
+| Mängd | Ingrediens |
+|---:|---|
+| 1 msk | olivolja |
+| ½ msk | vatten |
+| ½ tsk | honung (för färg – Lailas bryner knappt av sig själv) |
+| | rosmarin, färsk |
+| | flingsalt |
 
 ## Gör så här
 
@@ -62,26 +60,22 @@ Hela hushållet äter samma bröd – inga parallella bak. Standardsatsen är en
 
 ## Servering
 
+- Ljummen eller rumstempererad, med olivolja och flingsalt.
 - Förvaras i rumstemperatur (ej kyl). Uppfräschning: 200° ca 5 min.
 
 ## Att tänka på
 
-**Vanliga fel (glutenfri-specifika)**
-
-- **Skär för tidigt** → degigt inkråm. Vänta 30 min, det är kemin, inte gräddningen.
-- **För kort gräddning** → gummigt. Lita på innertemperaturen.
-- **Hoppar över gelé-vilan** → fiberhusken hinner inte binda vattnet, degen blir rinnig och brödet kompakt.
-- **Glömmer honungen/sockret** → Lailas har inget socker, jästen får ingen mat och degen jäser inte.
-- **För lite vatten** → torrt och smuligt. Glutenfria mixar dricker mer än vetemjöl.
-- **Gummiaktig botten** → gräddat för högt upp i ugnen, eller svalnat i formen (instängd ånga). Nedre halvan av ugnen + direkt ur formen till galler.
-- **Extra bindemedel** → xantangummi behövs inte; Lailas innehåller redan psyllium + förtjockningsmedel. Mer ger gummigt bröd.
-
-**Skalning**
-
-- **Dubbel sats** (form ca 25×30 cm, 16 bitar): 500 g mix, 10 g fiberhusk, 550 g vatten, 10 g torrjäst (ca 1 msk), 2 tsk honung i degen, 2 tsk salt, 2 msk olja i degen + 2 msk i formen, 1 tsk honung i toppingen. Grädda 25–30 min.
-- Skala alltid fiberhusk och vatten i samma proportion som mjölet – balansen mix:husk:vatten ger strukturen.
-
-**Bakgrund:** Kortet ersatte 2026-08-20 ett vetebaserat focacciakort på grund av Charlies celiaki. Lärdomar som följde med: kalljäsning ger mest smak, förvaring i rumstemperatur, uppfräschning 200° ca 5 min.
+- **Glutenkoll:** vi kör Lailas mjölmix – gul förpackning = majsstärkelse, naturligt glutenfri; blå = vetestärkelse (max 20 ppm gluten), märkt glutenfri och godkänd vid celiaki. Anteckna i loggen vilken som användes. Fiberhusk ska vara ren psyllium – läs etiketten. Torrjäst: kontrollera att förpackningen är märkt glutenfri (Kronjäst torrjäst är det). Korskontaminering: finns vetemjöl i köket, torka av alla ytor, ren form, nytt bakplåtspapper, ren pensel och degskrapa. Vetemjölsdamm hänger kvar i luften – baka inte glutenfritt samma dag som du hanterat vetemjöl.
+- **Vanliga fel (glutenfri-specifika):**
+    - **Skär för tidigt** → degigt inkråm. Vänta 30 min, det är kemin, inte gräddningen.
+    - **För kort gräddning** → gummigt. Lita på innertemperaturen.
+    - **Hoppar över gelé-vilan** → fiberhusken hinner inte binda vattnet, degen blir rinnig och brödet kompakt.
+    - **Glömmer honungen/sockret** → Lailas har inget socker, jästen får ingen mat och degen jäser inte.
+    - **För lite vatten** → torrt och smuligt. Glutenfria mixar dricker mer än vetemjöl.
+    - **Gummiaktig botten** → gräddat för högt upp i ugnen, eller svalnat i formen (instängd ånga). Nedre halvan av ugnen + direkt ur formen till galler.
+    - **Extra bindemedel** → xantangummi behövs inte; Lailas innehåller redan psyllium + förtjockningsmedel. Mer ger gummigt bröd.
+- **Skalning:** dubbel sats (form ca 25×30 cm, 16 bitar): 500 g mix, 10 g fiberhusk, 550 g vatten, 10 g torrjäst (ca 1 msk), 2 tsk honung i degen, 2 tsk salt, 2 msk olja i degen + 2 msk i formen, 1 tsk honung i toppingen. Grädda 25–30 min. Skala alltid fiberhusk och vatten i samma proportion som mjölet – balansen mix:husk:vatten ger strukturen.
+- **Bakgrund:** kortet ersatte 2026-08-20 ett vetebaserat focacciakort på grund av Charlies celiaki. Lärdomar som följde med: kalljäsning ger mest smak, förvaring i rumstemperatur, uppfräschning 200° ca 5 min.
 
 ## Logg
 

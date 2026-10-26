@@ -15,26 +15,40 @@ tags: [vardag, ugn, bacon, lingon, barnfavorit]
 
 **3–4 portioner (2 vuxna + Charlie) · ca 50 min (aktiv 15 min) · glutenfri**
 
-Hela satsen är glutenfri – ingen Charlie-anpassning behövs.
+Ugnspannkaka på Lailas blå med stekfläsk, gräddad på en het 30×40-plåt. Lingon och flingsalt till Charlie, skarp sallad till de vuxna.
 
 ## Ingredienser
 
 **Fläsk**
-- 375 g bacon/stekfläsk (1 paket Tulip)
+
+| Mängd | Ingrediens |
+|---:|---|
+| 375 g | stekfläsk (eller bacon), 1 paket Tulip |
 
 **Smet**
-- 4 ägg
-- 7 dl mjölk (3 %)
-- 240 g Lailas mjölmix (ca 4 dl)
-- 1 tsk finsalt
-- 25 g smör, smält (för smetens skull, ger krispigare kant)
+
+| Mängd | Ingrediens |
+|---:|---|
+| 4 st | ägg |
+| 7 dl | mjölk (3 %) |
+| 240 g (ca 4 dl) | Lailas mjölmix, blå |
+| 1 tsk | finsalt |
+| 25 g | smör, smält (ger krispigare kant) |
 
 **Till servering**
-- 3 dl rårörda lingon eller lingonsylt
-- flingsalt
-- grönsallad + vinägrett (se Servering)
+
+| Mängd | Ingrediens |
+|---:|---|
+| 3 dl | rårörda lingon (eller lingonsylt) |
+| | flingsalt |
+| 1 påse | frisée (eller rucola) – vuxna |
+| 1 msk | vitvinsvinäger |
+| 2 msk | olivolja |
+| 1 tsk | dijonsenap |
+| | snabbinlagd rödlök (valfritt) |
 
 ## Gör så här
+
 1. Sätt ugnen på 225 °C över-/undervärme (200 °C varmluft). Ställ in plåten 30×40 cm tom i ugnen.
 2. **Smeten:** vispa ägg och hälften av mjölken jämnt. Vispa i mjölmix och salt till en klumpfri smet, späd med resten av mjölken och sist det smälta smöret. Låt vila **15 min** medan fläsket går – glutenfri mix behöver tid att svälla. Smeten ska vara som tunn grädde; om den tjocknat märkbart, späd med 0,5 dl mjölk.
 3. **Fläsket:** skär baconet i 2–3 cm bitar. Fördela på den heta plåten och kör 10–12 min, tills fettet smält ut och bitarna börjat få färg men inte är helt knapriga (de bakas vidare).
@@ -44,17 +58,21 @@ Hela satsen är glutenfri – ingen Charlie-anpassning behövs.
 7. Låt stå 3–5 min innan du skär – den sjunker ihop, det är normalt.
 
 ## Charlie-version
-Ingen avvikelse – samma plåt. Kontrollera bara att baconet och lingonsylten är märkta glutenfria (bacon är det nästan alltid, men läs etiketten).
+
+- Ingen avvikelse – samma plåt, utan hetta och utan alkohol.
+- Lingon + en nypa flingsalt ovanpå – sött-salt.
 
 ## Servering
-- **Charlie:** lingon + en nypa flingsalt ovanpå – sött-salt.
-- **Vuxna:** lingon, plus en skarp sallad som syramotvikt: frisée eller rucola med vinägrett på 1 del vitvinsvinäger, 2 delar olivolja, 1 tsk dijon, salt. Snabbinlagd rödlök passar också.
+
+- Vuxna: lingon, plus en skarp sallad som syramotvikt – frisée eller rucola med vinägrett på vinägern, oljan, dijon och salt. Snabbinlagd rödlök passar också.
 - Serveras direkt, varm.
 
 ## Att tänka på
-- Lailas mjölmix har inte testats i ugnspannkaka här tidigare – vätskemängden är en startpunkt. Notera i loggen om smeten var för tjock/tunn.
-- Plåten måste vara het när smeten hälls i, annars blir botten blek och degig.
-- Rester: värm i ugn 200 °C ca 8 min snarare än i mikro (blir seg).
+
+- **Glutenkoll:** kontrollera att fläsket och lingonsylten är märkta glutenfria (bacon är det nästan alltid, men läs etiketten).
+- **Smeten:** Lailas mjölmix har inte testats i ugnspannkaka här tidigare – vätskemängden är en startpunkt. Notera i loggen om smeten var för tjock/tunn.
+- **Plåten** måste vara het när smeten hälls i, annars blir botten blek och degig.
+- **Rester:** värm i ugn 200 °C ca 8 min snarare än i mikro (blir seg).
 
 ## Logg
 

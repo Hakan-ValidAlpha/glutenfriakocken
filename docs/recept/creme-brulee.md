@@ -20,17 +20,24 @@ Naturligt glutenfri och alkoholfri (vaniljstång i stället för extrakt) – in
 ## Ingredienser
 
 **Smet**
-- 5 dl vispgrädde (40 %)
-- 1 vaniljstång
-- 6 äggulor
-- 70 g strösocker
-- 1 krm finsalt
+
+| Mängd | Ingrediens |
+|---:|---|
+| 5 dl | vispgrädde (40 %) |
+| 1 st | vaniljstång |
+| 6 st | äggulor |
+| 70 g | strösocker |
+| 1 krm | finsalt |
 
 **Lock**
-- ca 1 msk strösocker per form (tunt, jämnt lager)
-- flingsalt (Charlies portion – ev. till alla)
+
+| Mängd | Ingrediens |
+|---:|---|
+| ca 6 msk | strösocker (ca 1 msk per form, tunt jämnt lager) |
+| | flingsalt (Charlies portion – ev. till alla) |
 
 ## Gör så här
+
 1. Sätt ugnen på 150 °C över-undervärme. Koka upp vatten till vattenbadet.
 2. Snitta vaniljstången på längden, skrapa ur fröna. Lägg frön + stång i grädden och värm till strax under kokpunkten (~85 °C). Dra av från värmen, låt dra 10 min.
 3. Vispa ihop äggulor, socker och salt – bara tills blandat, inte fluffigt (luft ger bubblor på ytan).
@@ -41,17 +48,22 @@ Naturligt glutenfri och alkoholfri (vaniljstång i stället för extrakt) – in
 8. Precis före servering: torka av kondens från ytan med hushållspapper. Strö ett tunt, jämnt lager strösocker och luta formen så överskottet rinner av. Bränn i cirklande rörelser tills locket är djupt bärnstensfärgat. Låt stelna 1–2 min.
 
 ## Charlie-version
-Ingen delning av satsen. Flingsalt strös på hennes lock direkt efter bränning, medan sockret fortfarande är varmt så det fastnar.
+
+- Ingen delning av satsen – alkoholfri (vaniljstång i stället för extrakt) och utan hetta.
+- Flingsalt strös på hennes lock direkt efter bränning, medan sockret fortfarande är varmt så det fastnar.
 
 ## Servering
-Servera direkt efter bränning – locket mjuknar inom ca 15 min. Eventuellt några syrliga bär (hallon eller krusbär) vid sidan, inte ovanpå locket.
+
+- Servera direkt efter bränning – locket mjuknar inom ca 15 min.
+- Eventuellt några syrliga bär (hallon eller krusbär) vid sidan, inte ovanpå locket.
 
 ## Att tänka på
-- **Utrustningskoll:** cocotter/ramekiner (1–1,5 dl, ugnsfasta) finns inte i utrustningslistan – kontrollera eller köp. Gratängformen fungerar som vattenbad.
-- **Skafferikoll:** vaniljstång.
-- Vattenbadet + 150 °C är försäkringen mot grynig (skuren) smet – hoppa inte över det.
-- Hela satsen kan förberedas dagen innan; bränn locken vid bordet, det är halva showen med ny brännare.
+
+- **Utrustning:** cocotter/ramekiner (1–1,5 dl, ugnsfasta) finns inte i utrustningslistan – kontrollera eller köp. Gratängformen fungerar som vattenbad.
+- **Skafferikoll:** vaniljstång köps per sats.
+- **Vattenbadet** + 150 °C är försäkringen mot grynig (skuren) smet – hoppa inte över det.
+- **Förberedelse:** hela satsen kan förberedas dagen innan; bränn locken vid bordet, det är halva showen med ny brännare.
 
 ## Logg
 
-*Ingen lagning loggad ännu (Lagning 1 var planerad till 2026-09-18).*
+*Ingen lagning loggad ännu.*

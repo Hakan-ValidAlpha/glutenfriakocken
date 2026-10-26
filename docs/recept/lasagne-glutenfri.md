@@ -49,7 +49,7 @@ Klassisk köttfärslasagne efter Fredriks Fika, byggd på **Barillas glutenfria 
 | Mängd | Ingrediens |
 |---:|---|
 | 9 st | Barilla glutenfria lasagneplattor (ett paket räcker) |
-| 0,5–1 dl | riven parmesan eller extra ost till toppen |
+| 0,5–1 dl | riven parmesan till toppen (eller extra riven ost) |
 | | smör till formen |
 
 ## Gör så här
@@ -63,9 +63,14 @@ Klassisk köttfärslasagne efter Fredriks Fika, byggd på **Barillas glutenfria 
 7. Smörj gratängformen. Lägg ett tunt lager ostsås i botten, sedan plattor, köttfärssås, ostsås — tre varv med tre plattor per varv — ostsåsen är rikligt tilltagen, använd allt. Avsluta med ett generöst lager ostsås och strö över parmesan.
 8. Grädda mitt i ugnen 60 min tills toppen är gyllene och en kniv går lätt genom plattorna. Låt vila 10 min före servering så skivorna håller ihop.
 
+## Charlie-version
+
+- Ingen avvikelse – hela formen är glutenfri, utan hetta och utan alkohol.
+
 ## Servering
 
-En skarp grönsallad med vinägrett balanserar fettet.
+- En skarp grönsallad med vinägrett balanserar fettet.
+- Låt vila 10 min före servering så skivorna håller ihop.
 
 ## Att tänka på
 

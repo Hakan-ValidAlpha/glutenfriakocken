@@ -19,31 +19,52 @@ Gyoza-/wontonblad är vete och rätten ska inte göras glutenfri. Vuxensnacks; s
 
 ## Ingredienser
 
-### Chips
-- 8 gyoza- eller wontonblad (frysdisk, asiatisk livs) – anteckna vilken sort som användes
-- ca 1 l rapsolja att fritera i (2–3 cm djup i 24 cm-grytan)
-- salt
+**Chips**
 
-### Tartar
-- 300 g tonfisk, blockfryst gulfenad (tinad, se Att tänka på)
-- 1–2 tsk sesamolja (rostad, den mörka)
-- ½–1 msk srirachasås
-- 1 nypa salt
-- nymalen svartpeppar
-- ½ dl finstrimlad salladslök
+| Mängd | Ingrediens |
+|---:|---|
+| 8 st | gyozablad (eller wontonblad), frysdisk hos asiatisk livs – anteckna sort |
+| ca 1 l | rapsolja att fritera i (2–3 cm djup i 24 cm-grytan) |
+| | salt |
 
-### Sojamajonnäs
-- ½–1 dl majonnäs, hemslagen eller Hellmann's
-- 1–2 tsk japansk soja (t.ex. Kikkoman)
+**Tartar**
 
-### Topping
-- rostad lök
-- rostade vita sesamfrön
-- svarta sesamfrön
-- färsk koriander
-- limeklyftor
+| Mängd | Ingrediens |
+|---:|---|
+| 300 g | tonfisk, blockfryst gulfenad, tinad (se Att tänka på) |
+| 1–2 tsk | sesamolja, rostad (den mörka) |
+| ½–1 msk | srirachasås |
+| 1 nypa | salt |
+| | svartpeppar, nymalen |
+| ½ dl | salladslök, finstrimlad |
+
+**Sojamajonnäs**
+
+| Mängd | Ingrediens |
+|---:|---|
+| ½–1 dl | majonnäs (hemslagen eller Hellmann's) |
+| 1–2 tsk | japansk soja (t.ex. Kikkoman) |
+
+**Topping**
+
+| Mängd | Ingrediens |
+|---:|---|
+| | rostad lök |
+| | sesamfrön, vita, rostade |
+| | sesamfrön, svarta |
+| | koriander, färsk |
+| 1 st | lime, i klyftor |
+
+**Till Charlie** (bara om hon ska vara med)
+
+| Mängd | Ingrediens |
+|---:|---|
+| 1 påse | majschips, glutenfria (eller rispapper att fritera) |
+| 1 msk | majonnäs |
+| ½ tsk | tamari |
 
 ## Gör så här
+
 *Förberedelse: tina tonfisken i kylen över natten (eller i sluten påse i kallt vatten ca 1 h). Ta fram den först när den ska skäras – kall, nästan halvfryst fisk ger rena tärningar. Gör gärna tartar (steg 4–6) och majonnäs (steg 7) medan oljan värms.*
 
 1. **Olja.** Häll 2–3 cm rapsolja i gjutjärnsgrytan och värm till 160–170 °C (mät med Thermapen). För varm olja → bladen får färg innan de blir krispiga; för sval → de suger olja.
@@ -55,7 +76,8 @@ Gyoza-/wontonblad är vete och rätten ska inte göras glutenfri. Vuxensnacks; s
 7. **Sojamajonnäs.** Rör ihop majonnäs och soja, smaka av – tydlig umami/sälta utan att det bara smakar soja. Fyll i spritspåse eller en fryspåse med avklippt hörn.
 
 ## Charlie-version
-*Vuxensnacks – huvudreceptet är inte glutenfritt och ska inte göras om. Om Charlie ska vara med:*
+
+- Vuxensnacks – huvudreceptet är inte glutenfritt och ska inte göras om. Punkterna nedan gäller bara om Charlie ska vara med.
 - **Chips:** gyoza-/wontonbladen utgår (vete). Enklast: glutenfria majschips/nachos från butik. Vill man fritera: rispapper (naturligt glutenfritt, kolla märkning) puffar på några sekunder i 180–190 °C. **Fritera hennes bas först, i ren olja**, innan vetebladen går i.
 - **Tartar:** ta undan ca 75 g (¼) efter steg 4, innan srirachan. Smaka upp hennes portion med 1 krm sesamolja och en nypa salt – ingen chili.
 - **Sojamajonnäs:** japansk soja (Kikkoman) innehåller vete. Gör hennes separat: 1 msk majonnäs + ½ tsk tamari. (Alternativ: tamari i hela satsen – smaken är nästan identisk.)
@@ -63,12 +85,14 @@ Gyoza-/wontonblad är vete och rätten ska inte göras glutenfri. Vuxensnacks; s
 - Lime att pressa själv plus lite flingsalt ovanpå matchar hennes syrapreferens.
 
 ## Servering
-Montera precis före servering – chipsen tappar krispet inom några minuter med tartar på. Lägg ut chipsen på fat, skeda på tartar, spritsa sojamajonnäs i ett glest rutmönster, toppa med rostad lök, båda sorters sesamfrön och korianderblad. Limeklyftor vid sidan för den som vill pressa över. Serveras direkt; tartaren kall, chipsen rumstempererade.
 
-**Vin (kokbokens tips):** riesling med lite fruktsötma som balanserar hettan, t.ex. Leitz Eins Zwei Dry. Inget alkoholtillsatt i själva rätten.
+- Montera precis före servering – chipsen tappar krispet inom några minuter med tartar på. Lägg ut chipsen på fat, skeda på tartar, spritsa sojamajonnäs i ett glest rutmönster, toppa med rostad lök, båda sorters sesamfrön och korianderblad. Limeklyftor vid sidan för den som vill pressa över.
+- Serveras direkt; tartaren kall, chipsen rumstempererade.
+- **Vin (kokbokens tips):** riesling med lite fruktsötma som balanserar hettan, t.ex. Leitz Eins Zwei Dry. Inget alkoholtillsatt i själva rätten.
 
 ## Att tänka på
-- **Inköp:** gyoza-/wontonblad och blockfryst gulfenad tonfisk finns i frysdisken hos asiatisk livs; tonfisk även hos fiskhandlare. Köps färskt per rätt: tonfisk, salladslök, koriander, lime.
+
+- **Inköp:** gyoza-/wontonblad och blockfryst gulfenad tonfisk finns i frysdisken hos asiatisk livs; tonfisk även hos fiskhandlare.
 - **Tining:** tina aldrig i rumstemperatur; frys inte om tinad fisk. Rå fisk – ät samma dag.
 - **Fallgropar:** oljetemperaturen är allt – mät, gissa inte. Chipsen kan friteras ett par timmar i förväg och stå öppet i rumstemperatur, men montering sker sist. Gör inte tartaren med varm eller halvtinad-vattnig fisk; torka tärningarna lätt om de släpper vätska.
 - **Skalning:** tartar och majonnäs skalar linjärt; chipsen friteras alltid ett i taget, så dubbel sats = dubbel fritertid (ca 6 min per 8 blad).
@@ -76,4 +100,4 @@ Montera precis före servering – chipsen tappar krispet inom några minuter me
 
 ## Logg
 
-*Rätten är lagad tidigare enligt boken men utan betyg – ingen lagning loggad ännu. Notera bladsort vid första loggade lagningen.*
+*Ingen lagning loggad ännu – rätten är lagad tidigare enligt boken men utan betyg. Notera bladsort vid första loggade lagningen.*

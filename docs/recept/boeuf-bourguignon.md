@@ -19,6 +19,72 @@ Högrev bräserad i en hel flaska rött vin, med glacerad smålök och smörstek
 
 Charlie får en egen liten gryta utan vin som bräseras bredvid den stora – se Charlie-version.
 
+## Ingredienser
+
+**Kött**
+
+| Mängd | Ingrediens |
+|---:|---|
+| 1,5 kg | högrev i bit, benfri (ger ca 1,4 kg putsat) |
+| 15 g (2½ tsk) | fint salt – 1 % av köttvikten |
+| 150 g | rimmat sidfläsk, orökt, i stavar 1 × 1 cm |
+
+**Gryta**
+
+| Mängd | Ingrediens |
+|---:|---|
+| 2 st | gula lökar, grovhackade |
+| 2 st | morötter, i 1 cm skivor |
+| 4 st | vitlöksklyftor, krossade |
+| 2 msk | tomatpuré |
+| 75 cl | rött vin, torrt och fruktigt (se Att tänka på) |
+| 3 dl | kalvfond, utspädd enligt förpackningen (glutenfri – läs etiketten) |
+| 4 kvistar | färsk timjan |
+| 2 st | lagerblad |
+
+**Garnityr**
+
+| Mängd | Ingrediens |
+|---:|---|
+| 250 g | steklök (eller små schalottenlökar), skalade (halverade om större än en valnöt) |
+| 300 g | champinjoner, halverade (kvartade om stora) |
+| 40 g | smör |
+| 1 krm | strösocker |
+| ½ dl | vatten |
+
+**Avslut**
+
+| Mängd | Ingrediens |
+|---:|---|
+| 25 g | smör, kallt |
+| 1–2 tsk | rödvinsvinäger |
+| | fint salt, nymalen svartpeppar |
+| ½ kruka | persilja, finhackad |
+
+**Bittersallad** (valfri)
+
+| Mängd | Ingrediens |
+|---:|---|
+| ca 125 g | frisée (eller endive, annan bittersallad) |
+| 3 msk | rödvinsvinäger |
+| 1 msk | dijonsenap |
+| 6 msk | rapsolja |
+| 2 krm | fint salt |
+| 2 krm | strösocker |
+
+**Till Charlie** (hennes egen gryta)
+
+| Mängd | Ingrediens |
+|---:|---|
+| ca 300 g | av det brynta köttet (tas ur den stora satsen) |
+| 3 dl | köttbuljong (eller utspädd kalvfond), glutenfri |
+| 1 tsk | tomatpuré |
+| 1 msk | rödvinsvinäger |
+| 1 tsk | svartvinbärsgelé |
+| 1 kvist | timjan |
+| 1 st | lagerblad |
+| 10 g | smör, kallt |
+
 ## Tidsplan
 
 T = servering, till exempel kl 18.
@@ -36,61 +102,6 @@ T = servering, till exempel kl 18.
 | T−30 min | Kött och garnityr tillbaka i såsen, värm igenom |
 | T−15 min | Moset klart · smaka av såsen: smör, vinäger, salt |
 | T | Servera |
-
-## Ingredienser
-
-### Kött
-
-| Mängd | Ingrediens |
-|---:|---|
-| 1,5 kg | högrev i bit, benfri (ger ca 1,4 kg putsat) |
-| 15 g (2½ tsk) | fint salt – 1 % av köttvikten |
-| 150 g | rimmat sidfläsk, orökt, i stavar 1 × 1 cm |
-
-### Gryta
-
-| Mängd | Ingrediens |
-|---:|---|
-| 2 st | gula lökar, grovhackade |
-| 2 st | morötter, i 1 cm skivor |
-| 4 st | vitlöksklyftor, krossade |
-| 2 msk | tomatpuré |
-| 75 cl | rött vin, torrt och fruktigt (se Att tänka på) |
-| 3 dl | kalvfond, utspädd enligt förpackningen (glutenfri – läs etiketten) |
-| 4 kvistar | färsk timjan |
-| 2 st | lagerblad |
-
-### Garnityr
-
-| Mängd | Ingrediens |
-|---:|---|
-| 250 g | steklök eller små schalottenlökar, skalade (halverade om större än en valnöt) |
-| 300 g | champinjoner, halverade (kvartade om stora) |
-| 40 g | smör |
-| 1 krm | strösocker |
-| ½ dl | vatten |
-
-### Avslut
-
-| Mängd | Ingrediens |
-|---:|---|
-| 25 g | smör, kallt |
-| 1–2 tsk | rödvinsvinäger |
-| | fint salt, nymalen svartpeppar |
-| ½ kruka | persilja, finhackad |
-
-### Charlies gryta
-
-| Mängd | Ingrediens |
-|---:|---|
-| ca 300 g | av det brynta köttet (tas ur den stora satsen) |
-| 3 dl | köttbuljong eller utspädd kalvfond (glutenfri) |
-| 1 tsk | tomatpuré |
-| 1 msk | rödvinsvinäger |
-| 1 tsk | svartvinbärsgelé |
-| 1 kvist | timjan |
-| 1 st | lagerblad |
-| 10 g | smör, kallt |
 
 ## Gör så här
 
@@ -140,7 +151,7 @@ T = servering, till exempel kl 18.
 ## Servering
 
 - Djup tallrik: en rejäl sked mos med en grop i mitten, grytan bredvid, sås över både kött och mos. Persilja över.
-- Rätten är tung och fet. En skarp sallad bredvid gör mycket: frisée, endive eller annan bittersallad vänd i vinägrett på 3 msk rödvinsvinäger, 1 msk dijonsenap, 6 msk rapsolja, 2 krm salt, 2 krm socker.
+- Rätten är tung och fet. En skarp bittersallad bredvid gör mycket: vispa vinäger, dijon, salt och socker, vispa i oljan i tunn stråle och vänd salladen precis före servering.
 
 ## Att tänka på
 
@@ -152,7 +163,6 @@ T = servering, till exempel kl 18.
 - **Rester:** bättre dag 2. Frys i portioner med sås; moset görs färskt.
 - **Utrustning:** gjutjärnsgrytan 24 cm, rostfri stekpanna, en liten ugnssäker kastrull med lock till Charlie, finmaskig sil, hålslev. Inget utanför standardutrustningen.
 - **Glutenkoll:** högrev, sidfläsk (naturell – marinerade varianter kan innehålla gluten), vin, kalvfond (läs etiketten), tomatpuré, vinäger, svartvinbärsgelé, lök, svamp, smör – allt naturligt glutenfritt eller märkt. Dijon till salladen: läs etiketten.
-- **Inköpslista:** högrev 1,5 kg, rimmat sidfläsk 150 g, rött vin 75 cl, steklök/små schalottenlökar 250 g, champinjoner 300 g, gul lök 2, morötter 2, vitlök, tomatpuré, kalvfond, färsk timjan, lagerblad, persilja, rödvinsvinäger, svartvinbärsgelé, smör, bittersallad + dijon (valfritt), plus potatis och mjölk till moset.
 
 ## Logg
 
