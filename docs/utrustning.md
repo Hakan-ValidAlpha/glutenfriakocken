@@ -7,7 +7,7 @@
 - Ugnstyp: [varmluft / över-undervärme / båda] · Maxtemperatur: 275 °C
 - Pizzastål: ja — [Lilla Napoli bakstål för 250–350 °C-ugn](https://shop.lillanapoli.se/products/bakstal-for-250-350-ugn)
 - Grillfunktion: ja
-- Spis: glaskeramik
+- Spis: glaskeramik, värmeskala 1-9
 - Utegrill: kol i stugan, el i lägenheten
 
 ## Maskiner
@@ -18,6 +18,8 @@
 - Stavmixer / blender: ja
 - Sous vide-cirkulator: ja
 - Våg: ja, både 1 g- och 0,1 g-precision
+- Sifon: ja, 0.5 liter
+- Brännare: Markus Aujalay Classic Brännare
 
 ## Termometrar
 
@@ -27,7 +29,8 @@
 
 ## Kärl och formar
 
-- Gjutjärnsgryta: ja — [Le Creuset Signature rund 24 cm, 4,2 l](https://www.cervera.se/produkt/signature-gjutjarnsgryta-rund-24cm-42l-vulkan) och [Petromax gjutjärnsgryta](https://www.nordiskcampingutrustning.se/shop/petromax-gjutjarnsgryta-8865p.html)
+- Emaljerad gjutjärn: ja — [Le Creuset Signature rund 24 cm, 4,2 l](https://www.cervera.se/produkt/signature-gjutjarnsgryta-rund-24cm-42l-vulkan)
+- Gjutjärn: ja - [Petromax gjutjärnsgryta](https://www.nordiskcampingutrustning.se/shop/petromax-gjutjarnsgryta-8865p.html)
 - Stekpannor: rostfritt stål
 - Plåtar och formar: 30×40 plåt, pajform 24 cm, brödform, gratängform
 - Grund metallform för glasshårdning: 30×20 cm
@@ -65,7 +68,18 @@
 
 ### Kryddskåp
 
-- [lista de kryddor som alltid finns — recepten kan då hålla sig till dessa och flagga när något behöver köpas]
+- Salt
+- Peppar
+- Oregano
+- Timjan
+- Basilika
+- Chilipullver
+- Paprikapulver
+- Rökt paprikapulver
+- Mononatriumglutamat
+- Kanel
+- Sesamfrön
+- Vitpeppar
 
 ### Köps färskt per rätt
 
