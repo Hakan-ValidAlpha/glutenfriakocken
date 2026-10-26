@@ -1,13 +1,13 @@
 # Utrustning och skafferi
 
-*Det här dokumentet avgör vilka tekniker, temperaturer och ingredienser recepten får föreskriva. Fyll i det som stämmer, stryk resten — ju exaktare (märken, modeller, maxtemperaturer), desto precisare recept. Hakklamrar `[…]` är fortfarande ofyllda.*
+*Det här dokumentet avgör vilka tekniker, temperaturer och ingredienser recepten får föreskriva. Fyll i det som stämmer, skriv "nej" för det som inte finns — ju exaktare (märken, modeller, maxtemperaturer), desto precisare recept. Hakklamrar `[…]` är fortfarande ofyllda.*
 
 ## Ugn och värme
 
-- Ugnstyp: [varmluft / över-undervärme / båda] · Maxtemperatur: 275 °C
+- Ugnstyp: både varmluft och över-/undervärme · Maxtemperatur: 275 °C · Receptet anger vilket läge som passar rätten
 - Pizzastål: ja — [Lilla Napoli bakstål för 250–350 °C-ugn](https://shop.lillanapoli.se/products/bakstal-for-250-350-ugn)
 - Grillfunktion: ja
-- Spis: glaskeramik, värmeskala 1-9
+- Spis: glaskeramik, värmeskala 1–9
 - Utegrill: kol i stugan, el i lägenheten
 
 ## Maskiner
@@ -18,7 +18,7 @@
 - Stavmixer / blender: ja
 - Sous vide-cirkulator: ja
 - Våg: ja, både 1 g- och 0,1 g-precision
-- Sifon: ja, 0.5 liter
+- Sifon: ja, 0,5 l
 - Brännare: Markus Aujalay Classic Brännare
 
 ## Termometrar
@@ -30,15 +30,18 @@
 ## Kärl och formar
 
 - Emaljerad gjutjärn: ja — [Le Creuset Signature rund 24 cm, 4,2 l](https://www.cervera.se/produkt/signature-gjutjarnsgryta-rund-24cm-42l-vulkan)
-- Gjutjärn: ja - [Petromax gjutjärnsgryta](https://www.nordiskcampingutrustning.se/shop/petromax-gjutjarnsgryta-8865p.html)
-- Stekpannor: rostfritt stål
-- Plåtar och formar: 30×40 plåt, pajform 24 cm, brödform, gratängform
+- Gjutjärn: ja — [Petromax gjutjärnsgryta](https://www.nordiskcampingutrustning.se/shop/petromax-gjutjarnsgryta-8865p.html), 1,6 l, 12 × 25,5 × 22 cm
+- Stekpannor: rostfritt stål, 28 cm och 16 cm
+- Plåt: 30×40 cm
+- Pajform: 24 cm
+- Brödform: 24×10 cm
+- Gratängformar: Le Creuset 26×20 cm och 39×25 cm
 - Grund metallform för glasshårdning: 30×20 cm
 
 ## Kyla
 
 - Kylskåp: håller 4–5 °C (uppmätt)
-- Frys: [ ]
+- Frys: separat, −18 °C
 - Extra kyl/svalutrymme: nej
 
 ---
@@ -48,39 +51,41 @@
 ### Glutenfritt bak (märken viktiga — de beter sig olika)
 
 - Mjölmix: Lailas blå (enda som finns tillgänglig)
-- Enskilda mjöler: [rismjöl, majsstärkelse, potatisstärkelse, bovete, mandelmjöl, teff…]
-- Psylliumfröskal: [märke, helt eller malet]
-- Övrigt bak: [torrjäst/färsk jäst, bakpulver, bikarbonat, fiberhusk]
+- Enskilda mjöler: [oinventerat — rismjöl, majsstärkelse, potatisstärkelse, bovete, mandelmjöl, teff, havremjöl (GF-märkt?)]
+- Psylliumfröskal: [oinventerat — märke, helt eller malet]
+- Övrigt bak: [oinventerat — torrjäst/färsk jäst, bakpulver, bikarbonat, fiberhusk]
 
 ### Glass
 
 - LBG (locust bean gum): finns
 - Dextros: finns
-- Övrigt: [glykossirap, mjölkpulver, vaniljstänger…]
+- Glykossirap: finns
+- Mjölkpulver: finns
+- Övrigt (vaniljstänger, inverterat socker): nej — köps per rätt
 
 ### Basvaror alltid hemma
 
-- Fetter: [smör, olivolja (vardag + finare), neutral olja, ankfett…]
-- Syror: [vitvinsvinäger, äppelcidervinäger, citron, lime, risvinäger…]
-- Salter: [finsalt, flingsalt (märke?)]
-- Buljong/fond: [vilka]
-- Konserver/torrvaror: [krossade tomater, kokosmjölk, ris, GF pasta…]
+- Fetter: saltat smör, olivolja (vardag och finare), rapsolja
+- Syror: rödvinsvinäger, vitvinsvinäger, sherryvinäger, balsamico, citronsyra
+- Salter: finsalt, flingsalt
+- Fond på flaska: oxfond, kalvfond, hönsfond, kycklingfond, grönsaksfond
+- Torrvaror: krossade tomater, basmatiris, jasminris, GF pasta, risnudlar
 
 ### Kryddskåp
 
 - Salt
-- Peppar
+- Svartpeppar
+- Vitpeppar
 - Oregano
 - Timjan
 - Basilika
-- Chilipullver
+- Chilipulver
 - Paprikapulver
 - Rökt paprikapulver
-- Mononatriumglutamat
 - Kanel
 - Sesamfrön
-- Vitpeppar
+- Mononatriumglutamat
 
 ### Köps färskt per rätt
 
-- [det som aldrig lagerhålls — recepten ska lägga dessa på inköpslistan]
+- Allt som inte står ovan: kött, fisk, grönsaker, färska örter, citron/lime, mejeri utöver smör. Recepten lägger dessa i ingredienstabellen.
