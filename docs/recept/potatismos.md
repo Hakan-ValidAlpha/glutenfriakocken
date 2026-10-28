@@ -53,7 +53,6 @@ Hushållets grundmos: mjölig potatis, rikligt med smör, varm mjölk. Avsiktlig
 - **Sorten avgör.** Fast potatis (Amandine, Nicola, färskpotatis) ger segt, klistrigt mos – köp uttalat mjölig. Står det bara "potatis" på påsen: ta en annan.
 - **Kall mjölk** kyler moset och gör det stumt. Värm den alltid.
 - **Proportioner per 250 g potatis:** ca 30 g smör, ½ dl mjölk. Dubbel sats går i samma kastrull, men pressa i två omgångar.
-- **Potatispress** finns inte i utrustningslistan. Stöt fungerar men ger grövre mos – pressen är det billiga verktyget som ger störst skillnad.
 - **Rester** tätnar i kylen; värm på svag värme med en skvätt mjölk och en klick smör.
 
 ## Logg

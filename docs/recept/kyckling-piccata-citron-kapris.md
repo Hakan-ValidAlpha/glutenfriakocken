@@ -68,7 +68,6 @@ Tunna kycklingfiléer brynta i smör, sjudna i en lätt smörsås med citron, ka
 ## Att tänka på
 
 - **Glutenkoll:** Buljongtärningen är den enda risken — kontrollera märkningen (flera standardtärningar innehåller vetemjöl). Kapris, smör, Lailas blå är rent.
-- **Utrustning:** Potatispress saknas i `docs/utrustning.md`. Utan press: mosa grovt med gaffel, det blir inte samma lätthet.
 - **Filéerna:** Tjocka filéer blir torra innan såsen hunnit koka in. Är filéerna stora (>180 g styck) — dela dem i tre i stället för två, eller banka ut dem lätt.
 - **Syra:** Receptet ger mild syra. Hushållet gillar mer — smaka av med saften från andra citronhalvan i steg 8 innan skivorna går i.
 - **Skalning:** Dubbel sats kräver två pannor eller brynning i fyra omgångar; såsen kan göras i en panna.

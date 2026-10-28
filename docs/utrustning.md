@@ -38,6 +38,10 @@
 - Gratängformar: Le Creuset 26×20 cm och 39×25 cm
 - Grund metallform för glasshårdning: 30×20 cm
 
+## Småverktyg
+
+- Potatispress: ja
+
 ## Kyla
 
 - Kylskåp: håller 4–5 °C (uppmätt)
