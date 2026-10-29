@@ -4,10 +4,10 @@ kategori: huvudrätt
 protein: kyckling
 glutenfri: true
 tid_min: 45
-status: ny
-senast_lagad: null
-betyg: null
-charlie_ok: null
+status: testad
+senast_lagad: 2026-10-28
+betyg: 5
+charlie_ok: true
 tags: [vardag, kyckling, citron, kapris, syra, potatis]
 ---
 
@@ -15,7 +15,7 @@ tags: [vardag, kyckling, citron, kapris, syra, potatis]
 
 **4 portioner · ca 45 min (aktiv 35 min) · glutenfri**
 
-Tunt bankade kycklingkotletter med parmesanskorpa, och en blank pannsås av reducerat vin, citron och kapris som monteras med kallt smör. Metoden följer Lagerstrom och RecipeTin Eats snarare än de svenska "allt i pannan"-varianterna: kycklingen lyfts ur innan såsen byggs, så att skorpan hålls torr och köttet inte överkokas. Pressad potatis till.
+Tunt bankade kycklingkotletter i mjöl och ägg-parmesansmet, som ger en mjuk, smakrik skorpa, och en blank pannsås av reducerat vin, citron och kapris som monteras med kallt smör. Metoden följer Lagerstrom och RecipeTin Eats snarare än de svenska "allt i pannan"-varianterna: kycklingen lyfts ur innan såsen byggs, så att skorpan hålls torr och köttet inte överkokas. Pressad potatis till.
 
 ## Ingredienser
 
@@ -27,6 +27,7 @@ Tunt bankade kycklingkotletter med parmesanskorpa, och en blank pannsås av redu
 | 1 tsk | salt |
 | 2 krm | svartpeppar, nymalen |
 | 1 dl | Lailas blå mjölmix |
+| 2 st | ägg |
 | 3 msk | parmesan, finriven |
 | 3 msk | olivolja |
 | 1 msk | smör, till stekningen |
@@ -59,11 +60,11 @@ Tunt bankade kycklingkotletter med parmesanskorpa, och en blank pannsås av redu
 1. Skär potatisen i jämna bitar, 4–5 cm. Lägg i kastrull, täck med kallt vatten, i med det grova saltet. Koka upp, sjud med locket på glänt 20–25 min tills en kniv glider igenom utan motstånd.
 2. Dela varje kycklingfilé horisontellt i två tunna kotletter. Lägg dem en i taget i en fryspåse och banka till jämn tjocklek, ca 0,5–1 cm, med en kastrullbotten. Salta och peppra båda sidor och låt ligga 10 min medan du förbereder resten.
 3. Finhacka vitlöken. Riv det gula skalet av citronen och pressa 2 msk saft; håll isär skal och saft. Hacka persiljan. Torka kaprisen på hushållspapper. Ta fram det kalla smöret i kuber.
-4. Blanda mjölmix och parmesan i en djup tallrik. Vänd kotletterna i blandningen precis innan stekning, tryck till lätt och skaka av överskottet — ett tunt lager, ingen panering.
+4. Häll mjölmixen på en tallrik. Vispa upp äggen med parmesanen i en djup tallrik bredvid. Precis innan stekning: vänd kotletterna i mjölet, skaka av överskottet, dra dem sedan genom äggsmeten och låt det mesta rinna av — ett tunt, jämnt lager.
 
 ### Stekning
 
-5. Hetta upp olivolja och 1 msk smör i stor rostfri stekpanna på medelhög värme tills smöret slutat fräsa. Lägg i kotletterna utan att trängas, två omgångar om det behövs. Stek 3 min orört tills undersidan är gyllene, tryck till varje kotlett lätt med stekspaden de första sekunderna så hela ytan får kontakt. Vänd, stek 1 min till. Lyft ur vid 65–68 °C på Thermapen — de går upp till 72 °C på vila. Lägg på ett fat, luftigt.
+5. Hetta upp olivolja och 1 msk smör i stor rostfri stekpanna på medelhög värme tills smöret slutat fräsa. Lägg i kotletterna utan att trängas, två omgångar om det behövs. Stek 3 min orört tills äggskorpan är gyllene och fast, tryck till varje kotlett lätt med stekspaden de första sekunderna så hela ytan får kontakt. Vänd, stek 1–2 min till. Lyft ur vid 65–68 °C på Thermapen — de går upp till 72 °C på vila. Lägg på ett fat, luftigt.
 
 ### Sås
 
@@ -88,7 +89,7 @@ Tunt bankade kycklingkotletter med parmesanskorpa, och en blank pannsås av redu
 ## Att tänka på
 
 - **Glutenkoll:** Fonden är den enda riskvaran — kontrollera märkningen. Kapris, smör, parmesan och Lailas blå är rent.
-- **Mjölmixen bränner:** Lailas blå har mer stärkelse än vetemjöl och bränner snabbare i pannan. Steg 6 — häll av och torka ur — är obligatoriskt, annars blir såsen bitter och grumlig.
+- **Skorpan bränner:** Både äggsmeten och Lailas blå tar färg snabbare än vetemjöl. Medelhög, inte hög, värme — och steg 6, häll av och torka ur, är obligatoriskt, annars blir såsen bitter och grumlig.
 - **Pannan:** Rostfri panna ger stekavsats att skrapa loss. Är pannan för liten, stek i två omgångar snarare än att trängas — trängsel kokar kycklingen i stället för att bryna den.
 - **Såsen spricker** när smöret går i för varmt eller för snabbt. Pannan från värmen, kallt smör, få kuber i taget. Räddas med vatten och mer kallt smör.
 - **Syra:** 2 msk citronsaft är utgångsläget. Mer syra = mer saft, inte mer skal — skalet ger beska om det kokas.
@@ -98,4 +99,7 @@ Tunt bankade kycklingkotletter med parmesanskorpa, och en blank pannsås av redu
 
 ## Logg
 
-*Ingen lagning loggad ännu.*
+??? abstract "Lagning 1 — 2026-10-28 · betyg 5"
+    **Resultat:** Supergott. Hakan och Cissi 5/5, Charlie 4/5. Alkoholfri sås på buljong och vitvinsvinäger, pressad potatis till.
+    **Ändrat i huvudtexten:** Paneringen ändrad från parmesan blandad i mjölet (RecipeTin-metoden) till mjöl följt av 2 ägg uppvispade med parmesanen — gjordes så vid lagningen och blev mycket gott. Stektiden på andra sidan justerad till 1–2 min eftersom äggskorpan behöver stelna.
+    **Charlie:** 4/5, åt den alkoholfria versionen som hela familjen.
