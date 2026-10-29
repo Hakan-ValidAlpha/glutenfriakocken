@@ -80,6 +80,8 @@ Tunt bankade kycklingkotletter i mjöl och ägg-parmesansmet, som ger en mjuk, s
 ## Charlie-version
 
 - Alkoholfri: gör hela satsen på 1,5 dl extra kycklingbuljong i stället för vinet (alltså 2,5 dl buljong totalt) plus 1 msk vitvinsvinäger. Koka ner på samma sätt i steg 8–9 tills det är lätt simmigt, totalt ca 5 min. Vinet går inte att dela ut per portion — såsen är en enda sats.
+- Kaprisen petar hon bort själv. Skeda såsen över hennes kotlett genom en liten sil, eller ta sås från kanten av pannan där kaprisen inte ligger, så slipper hon det mesta.
+- Skär hennes kotlett i strimlor i köket innan servering — den är mör men svår att dela med barnbestick.
 - Vinversionen är för kvällar när Charlie äter något annat, eller när vuxna bedömer att alkoholen är bortkokt efter reduktionen till 2 msk. Välj vid tillagning.
 
 ## Servering
@@ -102,4 +104,4 @@ Tunt bankade kycklingkotletter i mjöl och ägg-parmesansmet, som ger en mjuk, s
 ??? abstract "Lagning 1 — 2026-10-28 · betyg 5"
     **Resultat:** Supergott. Hakan och Cissi 5/5, Charlie 4/5. Alkoholfri sås på buljong och vitvinsvinäger, pressad potatis till.
     **Ändrat i huvudtexten:** Paneringen ändrad från parmesan blandad i mjölet (RecipeTin-metoden) till mjöl följt av 2 ägg uppvispade med parmesanen — gjordes så vid lagningen och blev mycket gott. Stektiden på andra sidan justerad till 1–2 min eftersom äggskorpan behöver stelna.
-    **Charlie:** 4/5, åt den alkoholfria versionen som hela familjen.
+    **Charlie:** 4/5. Gillade inte kaprisen (Hakan och Cissi älskade den, så den stannar — Charlie petar bort) och tyckte kycklingen var svår att dela, vilket handlade om bestickvana snarare än seghet. Charlie-versionen uppdaterad: kapris silas bort ur hennes sås, kotletten skärs i strimlor i köket.
