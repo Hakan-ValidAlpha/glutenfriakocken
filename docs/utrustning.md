@@ -17,6 +17,7 @@
 - Matberedare: ja
 - Stavmixer / blender: ja
 - Sous vide-cirkulator: ja
+- Kolsyremaskin: ja — SodaStream [modell?]
 - Våg: ja, både 1 g- och 0,1 g-precision
 - Sifon: ja, 0,5 l
 - Brännare: Markus Aujalay Classic Brännare
