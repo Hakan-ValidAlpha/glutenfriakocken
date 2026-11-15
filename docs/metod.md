@@ -158,6 +158,6 @@ Git-historiken svarar på "vad ändrade vi mellan Lagning 1 och 3?" — `git log
 
 - Svenska. Svenska enheter (g, dl, ml, msk, tsk, krm). Aldrig cups eller oz.
 - Alkohol: vuxenportion ok, Charlie får alltid alkoholfri version — skriv ut hur.
-- Chili modereras för Charlie — skriv ut hur.
+- Hetta: rätten lagas mild, så att Charlie äter ur samma gryta, och delas inte i en mild och en het sats. Den som vill ha hetta tillsätter den i sin egen portion vid bordet — skriv ut med vad och en startmängd under Servering. Går hettan inte att skilja från tillagningen (marinad, glaze, kimchi): ta upp det i chatten innan kortet skrivs.
 - Mjöl: Lailas blå mjölmix är standard om inget annat anges.
 - Utrustning och skafferi: se [Utrustning och skafferi](utrustning.md). Recept föreskriver inte teknik eller varor som inte finns där utan att flagga det.
