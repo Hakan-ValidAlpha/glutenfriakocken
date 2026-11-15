@@ -4,10 +4,10 @@ kategori: huvudrätt
 protein: kyckling
 glutenfri: true
 tid_min: 125
-status: ny
-senast_lagad: null
-betyg: null
-charlie_ok: null
+status: testad
+senast_lagad: 2026-11-14
+betyg: 4
+charlie_ok: true
 tags: [helg, kyckling, ugn, chili, citron, syra]
 ---
 
@@ -74,14 +74,15 @@ Tidsplanen nedan styr hela middagen; det här kortet beskriver själva kycklinge
 6. Sätt ugnen på 220 °C över-/undervärme med ett galler mitt i ugnen. Klä plåten (30×40 cm) med bakplåtspapper.
 7. Lägg klubborna på plåten med skinnsidan upp och glest mellan bitarna. Rosta mitt i ugnen 20 min.
 8. Lägg bröstfiléerna bredvid klubborna med skinnsidan upp. Rosta 10 min till, tills skinnet på klubborna är djupt rödbrunt.
-9. Ta ut plåten. Skeda upp hälften av piri piri-såsen i en kopp. Pensla Charlies bit med den milda såsen och övriga bitar med piri piri-såsen ur koppen – resten av piri piri-såsen går orörd till bordet. In i ugnen igen 10 min.
+9. Ta ut plåten. Skeda upp hälften av piri piri-såsen i en kopp. Pensla Charlies bitar med den milda såsen och övriga bitar med piri piri-såsen ur koppen – resten av piri piri-såsen går orörd till bordet. In i ugnen igen 10 min.
 10. Mät med Thermapen. Klubborna är klara vid 80 °C i lårets tjockaste del, intill benet utan att nudda det; bröstet vid 65 °C i tjockaste delen. Lyft av det som är klart och ge resten 3–5 min till.
 11. Låt kycklingen vila 10 min på skärbrädan utan folie – övertäckt skinn blir mjukt. Bröstet stiger under vilan och ska ha nått 70 °C när det skärs upp; annars in i ugnen 2–3 min till.
 12. Skiva bröstet på snedden i 1 cm tjocka skivor och dela klubborna i leden mellan lår och ben. Skeda över lite av skyn från plåten.
 
 ## Charlie-version
 
-- Ingen chili i hennes portion: marinaden är mild för alla, och hennes bit penslas i steg 9 med den milda såsen som togs undan i steg 5, innan chilin rördes ner.
+- Ingen chili i hennes portion: marinaden är mild för alla, och hennes bitar penslas i steg 9 med den milda såsen som togs undan i steg 5, innan chilin rördes ner.
+- Klubborna är hennes favorit – räkna med två till henne.
 - Piri piri-såsen på bordet är bara för de vuxna. Charlie får en citronklyfta att pressa över själv.
 - Skiva hennes bröst eller skär loss köttet från benet i köket – det är lättare att äta med barnbestick.
 - Ingen alkohol i rätten.
@@ -106,4 +107,7 @@ Tidsplanen nedan styr hela middagen; det här kortet beskriver själva kycklinge
 
 ## Logg
 
-*Ingen lagning loggad ännu.*
+??? abstract "Lagning 1 — 2026-11-14 · betyg 4"
+    **Resultat:** Hakan och Cissi 4/5. Lagad på 1 bröstfilé med skinn och 2 klubbor i stället för kortets 2 + 2. Till rätten gjordes även [Bearnaisesås](bearnaisesas.md) efter MatMalins recept.
+    **Ändrat i huvudtexten:** Charlie-versionen – klubborna räknas som hennes, två stycken, och steg 9 penslar alla hennes bitar med den milda såsen.
+    **Charlie:** 5/5 för klubborna. Älskade dem och åt båda.
