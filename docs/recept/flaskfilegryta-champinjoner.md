@@ -4,9 +4,9 @@ kategori: huvudrätt
 protein: fläsk
 glutenfri: true
 tid_min: 50
-status: ny
-senast_lagad: null
-betyg: null
+status: testad
+senast_lagad: 2026-11-17
+betyg: 4
 charlie_ok: null
 tags: [vardag, fläsk, gryta, svamp, grädde]
 ---
@@ -15,7 +15,7 @@ tags: [vardag, fläsk, gryta, svamp, grädde]
 
 **4 portioner · ca 50 min (aktiv 40 min) · glutenfri**
 
-Krämig vardagsgryta i svensk stil, men byggd för mer smak: hårt brynt fläskfilé som bara värms i såsen, champinjoner stekta mörka i baconfett, och en sås på hemgjord kycklingfond som kokas ner i stekpannan i stället för buljongtärning och mjölk. Tamari och dijon ger djup, sherryvinäger och citron ger syran som gräddsåsen annars saknar.
+Krämig vardagsgryta i svensk stil, men byggd för mer smak: hårt brynt fläskfilé som bara värms i såsen, champinjoner stekta mörka i lite baconfett, och en sås på hemgjord kycklingfond som kokas ner i stekpannan i stället för buljongtärning och mjölk. Tamari och dijon ger djup, sherryvinäger och citron ger syran som gräddsåsen annars saknar.
 
 ## Ingredienser
 
@@ -25,9 +25,9 @@ Krämig vardagsgryta i svensk stil, men byggd för mer smak: hårt brynt fläskf
 |---:|---|
 | 600 g | fläskfilé, putsad |
 | 1,5 tsk | salt (1 tsk till köttet, resten till svampen) |
-| 140 g | bacon, tärnat |
+| 70 g | bacon, tärnat |
 | 400 g | kastanjechampinjoner (eller vita champinjoner), i kvartar |
-| 1 msk | rapsolja |
+| 2 msk | rapsolja (1 msk till svampen, 1 msk till köttet) |
 | 2 msk | smör (1 msk till köttet, 1 msk till löken) |
 | 2 st | schalottenlökar, finhackade |
 | 2 st | vitlöksklyftor, finhackade |
@@ -60,12 +60,12 @@ Krämig vardagsgryta i svensk stil, men byggd för mer smak: hårt brynt fläskf
 
 ### Bacon och svamp
 
-5. Lägg baconet i kall gjutjärnsgryta (Le Creuset 24 cm) och sätt på medelvärme, 6 av 9. Stek 6–8 min tills det är knaprigt och fettet smält ut. Lyft upp med hålslev till en tallrik; fettet stannar i grytan.
-6. Höj till 8 av 9. Stek svampen i baconfettet i två omgångar: lägg i hälften, låt ligga orört 2 min, rör och stek ytterligare 3–4 min tills vätskan kokat bort och bitarna är mörkt gyllene. Salta med en nypa av det resterande saltet först när de fått färg. Lyft upp till bacontallriken och upprepa med resten.
+5. Lägg baconet i kall gjutjärnsgryta (Le Creuset 24 cm) och sätt på medelvärme, 6 av 9. Stek 5–6 min tills det är knaprigt och fettet smält ut. Lyft upp med hålslev till en tallrik; fettet stannar i grytan.
+6. Höj till 8 av 9 och häll 1 msk rapsolja till baconfettet. Stek svampen i två omgångar: lägg i hälften, låt ligga orört 2 min, rör och stek ytterligare 3–4 min tills vätskan kokat bort och bitarna är mörkt gyllene. Salta med en nypa av det resterande saltet först när de fått färg. Lyft upp till bacontallriken och upprepa med resten.
 
 ### Kött och fond
 
-7. Medan svampen steker: hetta upp rapsolja och 1 msk smör i den rostfria stekpannan, 28 cm, på 8 av 9 tills smöret tystnat. Bryn köttet i två omgångar, 1–1,5 min per sida — hård, brun yta och fortfarande rosa inuti. Lyft över till en egen tallrik.
+7. Medan svampen steker: hetta upp 1 msk rapsolja och 1 msk smör i den rostfria stekpannan, 28 cm, på 8 av 9 tills smöret tystnat. Bryn köttet i två omgångar, 1–1,5 min per sida — hård, brun yta och fortfarande rosa inuti. Lyft över till en egen tallrik.
 8. Lägg fonden i den heta stekpannan och skrapa loss stekavsatsen medan den smälter. Koka ner till ungefär hälften, drygt 1 dl, 4–6 min. Den ska smaka tydligt av kyckling och stekyta. Dra av värmen.
 
 ### Sås
@@ -100,4 +100,7 @@ Krämig vardagsgryta i svensk stil, men byggd för mer smak: hårt brynt fläskf
 
 ## Logg
 
-*Ingen lagning loggad ännu.* Notera vid första lagningen: om såsen hann bli tillräckligt tjock på 6–8 min, och hur mycket citron som gick åt.
+??? abstract "Lagning 1 — 2026-11-17 · betyg 4"
+    **Resultat:** Mycket god, men lite för mycket baconsmak. Hakan åt ensam.
+    **Ändrat i huvudtexten:** Baconet halverat från 140 g till 70 g så att det stöttar i stället för att dominera. 1 msk rapsolja tillagd till svampen för att ersätta fettet som försvinner, och baconets stektid kortad till 5–6 min.
+    **Charlie:** Smakade inte.
